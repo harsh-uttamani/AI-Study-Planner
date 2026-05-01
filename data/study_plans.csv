@@ -1,0 +1,1001 @@
+student_name,country,city,subject,topic,exam_date,study_hours,progress,weak_topic
+Walter Lawrence,UK,Liverpool,Machine Learning,NumPy,08/12/1997,3,Pending,JDBC
+Lauren Daugherty,Canada,Montreal,Python,Functions,22/09/1994,1,Completed,Pandas
+James Buchanan,UK,Manchester,Machine Learning,Pandas,03/06/2020,1,Pending,Aggregation
+Claudia Owen,Canada,Vancouver,Machine Learning,Clustering,15/07/1990,8,Pending,OOP
+Joseph Palmer,India,Mumbai,Cloud Computing,Visualization,24/08/1986,1,Pending,ETL
+Roger Moreno,UK,Liverpool,AI,Data Cleaning,14/04/2024,8,Completed,Aggregation
+Gary Melton,UK,Liverpool,AI,ETL,19/07/2003,3,Completed,Aggregation
+Michael Miller,India,Mumbai,Java,ETL,25/01/2016,6,Pending,OOP
+Ian Daniels,Canada,Montreal,Data Science,Regression,12/11/2019,7,Pending,ETL
+Thomas Aguilar,USA,Chicago,MongoDB,Prediction,10/03/1992,8,Completed,Prediction
+Nicholas Abbott,India,Mumbai,Machine Learning,Aggregation,18/08/1976,6,Pending,Clustering
+Deborah Miller,USA,Los Angeles,Tableau,OOP,12/02/1990,8,Pending,Statistics
+Jennifer Rosales,Germany,Berlin,Python,OOP,17/02/1976,5,Pending,Regression
+Shannon Morgan DDS,Germany,Berlin,Java,Pandas,08/12/1976,7,Pending,OOP
+Louis Bass,Germany,Munich,Data Science,Pandas,19/04/2018,8,Pending,Regression
+Billy Kerr,USA,Chicago,Machine Learning,Pandas,26/06/2020,3,Pending,Prediction
+David Moore,India,Mumbai,MongoDB,Regression,22/02/1986,1,Completed,Pandas
+Madison Kim,Germany,Hamburg,Tableau,OOP,26/11/1995,3,Pending,NumPy
+Danny Fox,Canada,Vancouver,Python,Regression,18/07/1972,3,Pending,NumPy
+Kevin Mccarty,Germany,Berlin,Statistics,Pandas,24/03/2014,8,Pending,NumPy
+Tony Williams,India,Mumbai,Tableau,Functions,30/11/1991,1,Pending,Regression
+Eddie Maddox,USA,Chicago,Python,Functions,23/09/1993,7,Pending,Data Cleaning
+David Simpson,UK,London,AI,Functions,11/06/2002,3,Completed,Statistics
+James Jones,USA,New York,AI,OOP,15/08/2021,3,Pending,NumPy
+Sara Evans,Canada,Vancouver,Machine Learning,Visualization,01/04/1997,1,Pending,Prediction
+Sarah Stokes,Canada,Toronto,Machine Learning,Prediction,01/04/1971,7,Pending,ETL
+Daniel Smith,Canada,Toronto,Tableau,Aggregation,22/11/2004,6,Completed,Visualization
+Tanner Edwards,USA,Houston,AI,Visualization,19/09/1997,3,Completed,JDBC
+Tyrone Johnson,UK,London,Tableau,Visualization,15/07/1982,6,Pending,OOP
+Timothy Hoffman,USA,Los Angeles,MongoDB,Clustering,16/02/1996,8,Completed,JDBC
+Justin Hall,India,Bangalore,AI,Prediction,11/04/1996,7,Completed,Statistics
+Andrew Lewis,USA,Los Angeles,Statistics,Regression,25/11/2001,4,Completed,Statistics
+Teresa May,Canada,Vancouver,AI,Prediction,21/06/2024,6,Completed,Data Cleaning
+Mary Miller,UK,Liverpool,Cloud Computing,Data Cleaning,17/06/1975,6,Completed,JDBC
+Andrea Johnson,UK,Liverpool,Python,OOP,10/01/1976,6,Completed,Statistics
+Sylvia Powell,UK,London,Cloud Computing,Statistics,16/04/1995,1,Pending,Functions
+Meghan Bennett,UK,Liverpool,MongoDB,Statistics,19/05/1980,2,Completed,OOP
+Natalie Dunn,UK,Manchester,Statistics,Pandas,25/04/1999,5,Pending,Regression
+Tracy Yang,Germany,Hamburg,Tableau,NumPy,23/06/2022,7,Completed,Statistics
+Dr. Michael Vincent Jr.,UK,Liverpool,MongoDB,NumPy,18/12/1977,4,Completed,JDBC
+Tiffany Martin,India,Bangalore,Machine Learning,Statistics,19/12/2022,4,Pending,Clustering
+Nicole Davis,Germany,Munich,MongoDB,Functions,10/06/2020,1,Completed,JDBC
+Nicole Johnson,Canada,Vancouver,Java,JDBC,07/02/2017,5,Completed,Statistics
+Steven Smith,UK,Liverpool,Statistics,Regression,20/05/2004,8,Pending,ETL
+Samuel King,USA,Chicago,Data Science,Aggregation,18/08/1971,5,Completed,Statistics
+Mark Brown,Germany,Berlin,MongoDB,JDBC,07/01/1999,8,Pending,Functions
+Luke Montoya,USA,Chicago,Java,NumPy,24/10/2025,2,Pending,Visualization
+Andrea Nelson,India,Delhi,Python,JDBC,08/11/1971,1,Completed,Functions
+Carrie Rivers,Canada,Toronto,MongoDB,Prediction,09/04/1991,6,Pending,Pandas
+Dana Hall,UK,Manchester,Java,Functions,24/02/2023,1,Completed,Regression
+Zachary Lynn,UK,London,Python,Statistics,18/09/1983,5,Pending,JDBC
+Lisa Harper,India,Pune,Big Data,Aggregation,11/12/2019,1,Pending,ETL
+Courtney Knox,India,Mumbai,Data Science,ETL,14/07/1970,8,Pending,JDBC
+Daniel White,Germany,Hamburg,AI,Clustering,04/03/1979,8,Pending,Clustering
+Robert Russell,India,Delhi,Machine Learning,OOP,02/02/2024,4,Pending,NumPy
+Robert Wells,USA,New York,AI,ETL,26/08/1971,8,Completed,Statistics
+Michelle Ramirez,Canada,Toronto,Data Science,Aggregation,07/05/1987,6,Completed,Prediction
+Patricia Garner,Canada,Vancouver,AI,OOP,10/07/1985,4,Completed,Statistics
+Michael Howell MD,India,Hyderabad,Big Data,Clustering,19/07/2011,8,Completed,JDBC
+Kathy Schmidt,Germany,Hamburg,Big Data,Regression,12/09/2012,4,Completed,Data Cleaning
+Michelle Schneider,India,Bangalore,Python,NumPy,14/08/1995,4,Completed,Prediction
+Dr. John Farrell,UK,Liverpool,MongoDB,Functions,20/03/1977,4,Pending,OOP
+Mr. Christopher Pope,UK,Manchester,AI,Statistics,12/06/2008,4,Completed,Aggregation
+Jonathan Bell,Germany,Munich,AI,Functions,02/02/1973,7,Pending,Data Cleaning
+Mr. Joshua Gill,Germany,Berlin,Data Science,JDBC,24/10/1972,4,Completed,Clustering
+Christine Patrick,USA,New York,Java,ETL,06/12/1994,4,Pending,Pandas
+Benjamin Brown,USA,Los Angeles,Tableau,Functions,18/12/2007,4,Pending,NumPy
+James Harris,India,Bangalore,MongoDB,Prediction,19/02/2019,6,Pending,Regression
+David Hines,USA,Chicago,MongoDB,Statistics,07/05/2024,4,Completed,Pandas
+Andrea Zamora,India,Delhi,AI,OOP,25/06/1989,6,Completed,Pandas
+Morgan Barker,UK,Liverpool,Statistics,Functions,19/07/2014,2,Completed,Data Cleaning
+Benjamin Torres,UK,Liverpool,AI,JDBC,28/08/1972,5,Pending,ETL
+Destiny Robinson,Germany,Munich,AI,OOP,03/11/2016,3,Completed,JDBC
+Christopher Brown,Germany,Berlin,AI,Data Cleaning,28/04/2006,7,Pending,OOP
+Sean Lee,USA,New York,Statistics,Aggregation,09/08/1973,1,Completed,Aggregation
+Brian Reed,Germany,Munich,AI,Pandas,01/04/1998,8,Completed,ETL
+Tanya Ferguson,UK,Manchester,Machine Learning,Data Cleaning,03/09/2019,7,Completed,Prediction
+Emma Leonard,Canada,Montreal,MongoDB,Statistics,11/11/2019,2,Completed,Pandas
+Stephen Waters,USA,Chicago,MongoDB,Clustering,10/05/1982,7,Completed,Regression
+Eric Spencer,Canada,Vancouver,Java,Data Cleaning,12/04/2025,3,Completed,Pandas
+Leslie Reyes PhD,USA,Houston,Python,ETL,18/09/2003,5,Pending,Statistics
+Zachary Brooks,India,Bangalore,Tableau,NumPy,06/02/2007,1,Completed,Statistics
+Jennifer Hill,Canada,Vancouver,Tableau,Visualization,06/12/1978,6,Pending,Functions
+Tamara Johnson,Germany,Munich,Big Data,Pandas,11/08/1979,5,Completed,Prediction
+Jason Wright,UK,Liverpool,Python,Aggregation,06/01/2004,1,Completed,Regression
+Jane Ramirez,UK,London,Statistics,Prediction,15/11/1979,8,Completed,Functions
+Samuel Gonzales,UK,Manchester,Machine Learning,JDBC,10/03/1998,7,Completed,Regression
+Mary Bailey,Germany,Hamburg,AI,Aggregation,08/06/1972,5,Completed,Pandas
+Steven Jordan,UK,Manchester,Tableau,Clustering,09/09/2001,2,Completed,Visualization
+Mikayla Welch,UK,Manchester,Big Data,Regression,16/07/1995,7,Pending,Visualization
+Adam Howard,USA,Houston,Machine Learning,Pandas,16/10/1975,4,Pending,Statistics
+Ms. Kathy Fuller MD,Canada,Montreal,Big Data,Visualization,30/10/2003,3,Completed,NumPy
+Walter Rodriguez,India,Pune,AI,Functions,28/07/1979,1,Pending,Clustering
+Richard Yu,USA,Houston,Machine Learning,Prediction,21/05/2019,2,Pending,Functions
+Jose Martinez,UK,Manchester,Cloud Computing,Functions,15/03/1995,4,Pending,Clustering
+Stephanie Snyder,India,Bangalore,Cloud Computing,NumPy,22/08/2019,6,Pending,Functions
+Todd Perez,Germany,Hamburg,Big Data,Regression,06/07/2008,3,Completed,Visualization
+Laura Swanson,Canada,Vancouver,Statistics,JDBC,26/12/1988,2,Completed,NumPy
+Thomas Church,Canada,Vancouver,MongoDB,Prediction,03/10/2024,3,Pending,OOP
+Joshua White,Germany,Berlin,Big Data,Statistics,03/09/2007,2,Pending,Statistics
+Kevin Hampton,India,Mumbai,AI,Regression,21/01/2020,8,Completed,Functions
+Ethan Sanders,USA,Los Angeles,Statistics,Functions,28/02/2023,6,Pending,Data Cleaning
+Angela Walker,Canada,Toronto,Data Science,NumPy,04/04/1979,3,Pending,NumPy
+Dennis James,India,Mumbai,Big Data,Statistics,25/10/2008,7,Pending,Aggregation
+Jeremy Brown,UK,London,Cloud Computing,JDBC,16/07/2010,5,Completed,Regression
+William Carey,India,Bangalore,MongoDB,Prediction,02/03/1993,5,Pending,OOP
+Tammy Rodriguez,UK,London,Java,Regression,17/08/1991,4,Completed,Visualization
+Kelsey Rodriguez,Germany,Munich,Java,Visualization,21/10/1995,4,Completed,OOP
+Donna Lewis,Canada,Toronto,Big Data,Clustering,08/02/1975,3,Pending,Clustering
+David Cunningham,India,Pune,Data Science,Prediction,28/03/2019,6,Pending,Regression
+Stephen Martin,UK,London,Data Science,OOP,19/04/2018,3,Pending,OOP
+Kiara Shah,Germany,Hamburg,Tableau,OOP,13/05/2024,8,Pending,Statistics
+Anita Fisher,Germany,Berlin,Data Science,ETL,29/08/2006,5,Completed,Statistics
+Karen Nelson,India,Delhi,Cloud Computing,OOP,01/08/2015,1,Completed,NumPy
+Robin Garcia,Canada,Vancouver,Tableau,Aggregation,29/02/2008,6,Completed,Visualization
+Krista Rodriguez,UK,London,Python,Clustering,12/05/2006,3,Pending,Data Cleaning
+Kelsey Adams,USA,New York,AI,Functions,06/06/2007,7,Completed,Clustering
+Phyllis Palmer,UK,London,MongoDB,Clustering,27/06/2022,5,Completed,Functions
+Carl Watts,India,Hyderabad,Machine Learning,NumPy,30/12/2010,5,Completed,Prediction
+Alicia Hughes,UK,London,Python,JDBC,01/08/2000,3,Completed,Regression
+Diana Wood,USA,Chicago,Machine Learning,Statistics,07/10/2003,2,Completed,ETL
+Robert Fletcher,UK,Liverpool,Data Science,JDBC,30/03/1984,8,Pending,Aggregation
+Jill Reilly,UK,Manchester,Machine Learning,ETL,30/03/1972,7,Completed,Aggregation
+Tyler Mays,Germany,Munich,MongoDB,Statistics,06/07/1985,2,Pending,Aggregation
+Dustin Liu,UK,Manchester,Cloud Computing,ETL,12/08/2015,1,Pending,Functions
+Ashley Campos,Canada,Montreal,Big Data,OOP,26/05/2022,6,Completed,Statistics
+Shelby Scott,UK,London,Statistics,Pandas,21/01/1970,5,Completed,Visualization
+Randy Sanchez,India,Delhi,Java,Data Cleaning,10/02/2006,6,Completed,JDBC
+Dawn Moody,USA,Los Angeles,Cloud Computing,Visualization,07/03/1995,1,Pending,Data Cleaning
+Samuel Baker,Canada,Toronto,AI,Clustering,03/08/1978,7,Pending,Regression
+James Fuentes,India,Mumbai,Python,NumPy,13/10/1977,8,Pending,NumPy
+David Young,India,Bangalore,Python,JDBC,16/03/2003,1,Pending,ETL
+Brandon Smith,Germany,Munich,Machine Learning,Aggregation,01/04/2023,7,Pending,Visualization
+Devon Olson,Germany,Hamburg,Machine Learning,OOP,04/04/2026,6,Completed,Statistics
+Theresa Rhodes,India,Pune,Big Data,Clustering,12/09/1996,3,Pending,Regression
+Brian Tapia,USA,New York,Statistics,Functions,16/03/2025,5,Pending,ETL
+Theresa Schroeder,Germany,Berlin,Cloud Computing,ETL,14/11/2017,4,Completed,OOP
+Zachary Sims,USA,Chicago,Python,OOP,14/01/2001,6,Completed,Aggregation
+Briana Perez,UK,Manchester,Statistics,Regression,22/03/1974,2,Completed,NumPy
+Rose Moore,Germany,Munich,Cloud Computing,JDBC,23/08/2015,4,Pending,Clustering
+Harold Jones,Canada,Vancouver,Machine Learning,JDBC,06/09/1972,8,Completed,Data Cleaning
+Douglas Rodriguez II,USA,Los Angeles,Machine Learning,Clustering,20/11/1992,5,Pending,Statistics
+Kimberly Gonzalez,UK,Manchester,AI,JDBC,28/07/2017,6,Completed,ETL
+Anthony Lopez,Germany,Berlin,Big Data,Statistics,06/11/2020,2,Completed,NumPy
+Lauren Kennedy,UK,London,Tableau,Data Cleaning,27/02/2021,5,Completed,Clustering
+James Reese,Germany,Berlin,Statistics,Prediction,02/02/1993,3,Completed,Regression
+Shelby Parrish,Germany,Hamburg,Data Science,Clustering,12/12/1979,4,Completed,Visualization
+Tammy Hernandez,India,Pune,Data Science,Aggregation,08/08/1972,1,Pending,Regression
+Thomas Hodges Jr.,UK,London,Machine Learning,Data Cleaning,10/06/2020,5,Pending,Statistics
+Beth Evans,USA,Los Angeles,AI,Pandas,25/11/2009,6,Completed,OOP
+Raymond Martin,UK,London,Machine Learning,OOP,23/04/2018,5,Completed,Statistics
+Paul Rodriguez,Germany,Munich,Java,NumPy,15/07/2016,3,Completed,Functions
+Chad Nelson,UK,London,Data Science,Data Cleaning,30/10/2001,3,Pending,Clustering
+Paul Hernandez,Canada,Toronto,Big Data,Regression,05/04/1998,3,Completed,ETL
+Elizabeth Mills,UK,Manchester,Data Science,Prediction,30/06/2015,8,Completed,Clustering
+Rita Moore,Germany,Hamburg,Java,Pandas,11/12/2008,1,Pending,Statistics
+Carla Nicholson,USA,Chicago,AI,Pandas,26/12/2014,4,Completed,Data Cleaning
+Kayla Wilson,Germany,Hamburg,Data Science,JDBC,18/02/2022,5,Completed,OOP
+Patrick Cameron,Germany,Hamburg,Java,Visualization,26/06/1982,2,Completed,OOP
+Ashley Ryan,Germany,Munich,Big Data,Regression,13/06/1984,5,Pending,Pandas
+Meghan Olson,Canada,Toronto,Machine Learning,Aggregation,11/04/2026,2,Completed,ETL
+Dana Brown,India,Pune,Java,OOP,01/07/1986,1,Pending,Aggregation
+Stephanie Burgess,India,Mumbai,AI,ETL,28/04/1989,6,Completed,Functions
+Mr. Brian Murray,UK,London,AI,Visualization,17/10/1988,2,Completed,ETL
+Stanley Walker,Canada,Montreal,Big Data,Data Cleaning,11/04/1999,6,Completed,Aggregation
+Jacob Collins,India,Pune,Tableau,Visualization,14/12/1975,1,Pending,Clustering
+Cody Pruitt,UK,Manchester,AI,Clustering,09/07/2004,2,Pending,Statistics
+Joseph Harrison,India,Bangalore,Machine Learning,Functions,06/11/1973,1,Completed,Prediction
+Amanda Myers,Germany,Munich,Cloud Computing,Aggregation,13/09/1981,6,Pending,OOP
+Richard Mosley,USA,New York,Tableau,Data Cleaning,30/04/2010,4,Pending,Functions
+Melissa Simon,UK,Liverpool,Python,ETL,28/01/1974,1,Pending,JDBC
+Nicholas Warren,UK,Manchester,MongoDB,NumPy,24/10/1974,6,Pending,OOP
+Vanessa Adkins,Germany,Hamburg,Tableau,Visualization,01/10/2002,7,Completed,JDBC
+Paul Riley,USA,Chicago,Statistics,Functions,31/01/1985,8,Pending,ETL
+Jacob Jones,USA,Houston,MongoDB,Functions,30/03/1976,3,Completed,Clustering
+Kristin Gardner,Canada,Montreal,Cloud Computing,Pandas,20/07/1971,4,Pending,JDBC
+Deborah Baker,USA,Los Angeles,Python,Functions,14/04/2012,2,Pending,Visualization
+Donna Bullock,India,Mumbai,Java,OOP,05/02/1978,8,Pending,Regression
+Jesse Stewart,India,Bangalore,AI,Functions,11/05/1981,6,Pending,Prediction
+Cory Taylor,UK,Liverpool,Machine Learning,NumPy,14/02/1983,7,Completed,ETL
+George Bradford,Canada,Vancouver,MongoDB,Visualization,17/09/2003,2,Pending,Clustering
+Annette Grimes,USA,Los Angeles,Data Science,Prediction,13/03/1975,1,Completed,Statistics
+Michelle Turner,Germany,Hamburg,AI,Prediction,10/08/1976,4,Pending,Data Cleaning
+Timothy Hill,USA,Chicago,Big Data,Visualization,19/09/2004,4,Pending,Clustering
+Chad Moore,Canada,Vancouver,Data Science,Functions,16/07/1990,8,Pending,OOP
+Steven Davis,UK,Liverpool,Data Science,OOP,22/01/1995,6,Pending,OOP
+Brianna Garcia,Germany,Berlin,AI,Pandas,14/12/1983,1,Completed,OOP
+Barbara Myers,India,Mumbai,MongoDB,Data Cleaning,03/02/2003,8,Pending,JDBC
+Connie Torres,India,Bangalore,Machine Learning,Prediction,12/08/2001,5,Pending,Data Cleaning
+Janet Foster,UK,Liverpool,Big Data,Prediction,16/06/2008,1,Completed,Aggregation
+Jerome Parrish,USA,Houston,Big Data,JDBC,31/12/1974,2,Pending,ETL
+Jennifer Potts,India,Mumbai,Cloud Computing,Statistics,15/08/2023,4,Completed,Visualization
+Cynthia Marshall,USA,New York,Cloud Computing,OOP,27/11/1973,2,Completed,NumPy
+Robert Franklin,India,Delhi,Big Data,Regression,27/09/1999,4,Pending,Regression
+James Miller,USA,Los Angeles,Java,Pandas,15/01/1985,3,Completed,ETL
+Robert Bauer,UK,Liverpool,Java,Aggregation,07/11/1984,2,Completed,NumPy
+Robin Shaw,USA,Houston,Cloud Computing,Statistics,23/04/2000,6,Completed,JDBC
+Wayne Johnson,India,Bangalore,Java,Regression,26/12/1996,8,Completed,Data Cleaning
+Richard Smith,UK,Liverpool,Cloud Computing,Visualization,27/10/2017,5,Completed,NumPy
+Lori Sullivan,India,Pune,AI,OOP,03/01/2025,1,Pending,ETL
+Amanda Sanchez,Canada,Vancouver,MongoDB,Visualization,10/02/1974,8,Completed,Statistics
+John Hendrix,Canada,Montreal,Java,JDBC,16/08/2007,7,Completed,Pandas
+Arthur Lee,India,Hyderabad,Python,NumPy,18/07/1997,1,Completed,NumPy
+Janet Ortega,UK,Liverpool,Data Science,Clustering,09/10/2014,7,Completed,Prediction
+Ronald Williams,Germany,Berlin,Tableau,NumPy,05/09/2015,7,Completed,ETL
+Wayne Wilkerson,India,Hyderabad,Python,ETL,16/03/1976,2,Pending,Visualization
+Courtney Lewis,UK,Liverpool,Machine Learning,Pandas,23/06/2023,1,Completed,OOP
+Angela Butler,Germany,Hamburg,Big Data,NumPy,26/10/1995,8,Completed,Visualization
+Marie Hill,UK,London,Tableau,Visualization,19/11/1973,2,Completed,ETL
+Andrea West,USA,New York,Java,Statistics,04/04/2022,7,Completed,Pandas
+Joshua Shaw,Germany,Berlin,Cloud Computing,Prediction,14/06/2024,7,Completed,Prediction
+Marie Hansen,UK,Liverpool,Big Data,Functions,27/08/1982,2,Pending,Prediction
+James Petersen,Canada,Vancouver,Data Science,Regression,14/02/2022,2,Pending,NumPy
+Anna Sanchez,USA,New York,AI,Visualization,17/03/2007,7,Pending,OOP
+Dr. Tyler Craig,UK,Liverpool,Java,JDBC,11/11/1988,5,Pending,Regression
+Mary Frazier,Canada,Toronto,Python,Pandas,21/11/2025,8,Completed,Data Cleaning
+Brian Paul,Germany,Munich,Data Science,Prediction,09/03/1979,5,Completed,Visualization
+Jenna Armstrong,UK,Manchester,Tableau,ETL,26/04/1996,5,Completed,ETL
+William Brandt,USA,Chicago,Cloud Computing,Clustering,28/08/2016,7,Pending,Statistics
+Linda Barnes,USA,Houston,AI,JDBC,01/12/1999,1,Completed,Clustering
+Adrian Mcconnell,UK,Liverpool,Machine Learning,Data Cleaning,10/11/1978,5,Completed,Functions
+Jessica Hernandez,USA,Houston,Cloud Computing,Statistics,01/10/2024,1,Completed,Statistics
+Maria Roberts,Canada,Toronto,Cloud Computing,ETL,17/07/1985,8,Completed,Aggregation
+Cassie Smith,USA,New York,Java,JDBC,09/08/1986,1,Pending,Functions
+Kevin Garrison,Germany,Hamburg,Machine Learning,Clustering,27/12/1974,6,Pending,ETL
+Gregory Simpson,Germany,Munich,MongoDB,OOP,27/11/1991,6,Pending,Aggregation
+Sophia Jordan,Germany,Hamburg,Machine Learning,Aggregation,10/04/2021,6,Completed,ETL
+Leah Mcclure,India,Hyderabad,Big Data,Regression,09/02/2001,8,Pending,Aggregation
+Cassie Baker,UK,Liverpool,Data Science,Regression,10/03/2019,8,Pending,Pandas
+Nathan Gonzales,India,Bangalore,Machine Learning,Statistics,20/02/1973,4,Pending,Regression
+Crystal Williams,UK,Liverpool,Big Data,NumPy,10/11/2019,4,Pending,Visualization
+Jennifer Price,USA,Houston,Python,Clustering,13/11/1994,5,Pending,ETL
+Marcus Prince,Germany,Berlin,Data Science,Data Cleaning,12/05/2020,7,Pending,JDBC
+Lisa George,UK,Liverpool,Machine Learning,Data Cleaning,07/12/2012,8,Pending,Prediction
+Noah Robinson,Germany,Hamburg,Statistics,Aggregation,30/12/1986,5,Pending,NumPy
+Gabrielle Miller,Canada,Vancouver,Data Science,Statistics,20/06/2015,3,Completed,NumPy
+Marcus Mckenzie,USA,New York,Java,Aggregation,08/01/1983,2,Completed,Statistics
+Stephanie Cooper,Canada,Vancouver,Data Science,Prediction,21/12/2023,2,Completed,JDBC
+Lance Black,UK,Liverpool,Tableau,Clustering,11/06/2016,3,Pending,Regression
+Gregory Smith,USA,Houston,Data Science,Regression,23/12/1992,2,Completed,Regression
+Richard Rogers,USA,Los Angeles,Java,Regression,09/05/1999,7,Pending,Pandas
+Lisa Cantu,UK,Manchester,Python,Clustering,12/12/2001,1,Pending,Regression
+Douglas Duncan,USA,Los Angeles,Statistics,Regression,09/01/1984,3,Pending,OOP
+Kelly Bell,India,Pune,AI,Regression,21/04/2010,8,Pending,Aggregation
+Christopher Hernandez,USA,Houston,Big Data,Prediction,18/03/1971,5,Completed,Data Cleaning
+Jeffrey Thompson,USA,Chicago,Python,NumPy,30/04/1995,4,Completed,Statistics
+Renee Wells,Germany,Berlin,AI,Data Cleaning,22/12/1983,1,Completed,Pandas
+Jeffrey Gonzalez,Canada,Vancouver,Machine Learning,Regression,30/10/1980,1,Pending,OOP
+Joshua Richards,India,Pune,Machine Learning,JDBC,29/09/1986,8,Pending,Pandas
+Michael Jacobs,Canada,Montreal,Tableau,Statistics,16/12/2016,6,Pending,Statistics
+Eric Cruz,Canada,Toronto,Tableau,JDBC,09/11/1996,8,Completed,Pandas
+Kenneth Jackson,UK,London,Tableau,Functions,17/07/1979,2,Pending,OOP
+Madison Chapman,India,Mumbai,Data Science,Clustering,03/04/2013,6,Pending,Functions
+Christy Erickson,USA,New York,Cloud Computing,Data Cleaning,15/08/2001,3,Completed,Prediction
+Jeremiah Rodriguez,USA,Houston,Java,NumPy,26/06/1985,8,Pending,Clustering
+Christopher Shields,India,Bangalore,AI,Prediction,27/01/1985,3,Pending,Clustering
+Stacey Morris,UK,Manchester,Big Data,Data Cleaning,18/03/1988,3,Completed,ETL
+Jennifer Jones,USA,Chicago,AI,JDBC,06/04/2013,5,Completed,ETL
+Karen Dixon,UK,London,Big Data,Aggregation,10/10/2009,8,Pending,Visualization
+Jeremy Guzman,India,Delhi,Big Data,NumPy,04/04/1978,3,Pending,Regression
+Michele Clark,USA,Chicago,AI,Pandas,17/08/1984,1,Pending,ETL
+Megan Day,UK,Liverpool,Big Data,Clustering,29/12/1986,7,Pending,Prediction
+Alexander Gordon,USA,New York,Tableau,Aggregation,02/06/1987,7,Completed,Regression
+Peter Zimmerman,Germany,Munich,AI,Clustering,21/09/1982,1,Completed,OOP
+Rhonda Mills,India,Mumbai,MongoDB,Clustering,20/12/2017,1,Pending,NumPy
+Steven Hanson DDS,Germany,Munich,Big Data,Data Cleaning,03/10/2015,2,Completed,Regression
+Alyssa Reed,UK,Manchester,Cloud Computing,ETL,15/11/2010,4,Pending,Functions
+Chris Zimmerman,Germany,Munich,Data Science,Regression,11/03/1995,3,Pending,Visualization
+Jennifer Harrington,Germany,Munich,Python,Regression,12/01/1999,4,Pending,Prediction
+Amanda Reese,India,Bangalore,Machine Learning,Data Cleaning,21/08/1977,4,Completed,ETL
+Sarah Lee,USA,Los Angeles,Data Science,OOP,09/10/1984,2,Completed,Statistics
+Robert Rodriguez,USA,Chicago,Data Science,ETL,03/07/1999,4,Completed,ETL
+David Robinson,India,Mumbai,Machine Learning,Visualization,28/08/2017,6,Pending,OOP
+Katherine Richards,USA,New York,Data Science,Data Cleaning,23/07/1991,2,Pending,Functions
+Susan Payne,Germany,Hamburg,Cloud Computing,OOP,07/08/2021,1,Completed,Functions
+Jack Williams,India,Pune,Statistics,Prediction,27/04/1991,7,Pending,Prediction
+Angela King,Canada,Toronto,Machine Learning,Aggregation,14/11/2007,5,Completed,Data Cleaning
+Dana White,India,Hyderabad,Cloud Computing,NumPy,25/01/2023,2,Pending,ETL
+Holly Gray,India,Mumbai,Big Data,NumPy,24/02/1977,3,Pending,JDBC
+Douglas Boyle,Germany,Hamburg,Tableau,Pandas,03/03/2024,5,Completed,Statistics
+Andrew Roberts,Canada,Toronto,Statistics,Pandas,13/01/2018,8,Pending,OOP
+Charles Mcgee,India,Mumbai,Java,Data Cleaning,04/04/2019,7,Completed,Functions
+Jose Underwood,USA,Chicago,Tableau,Prediction,16/08/1998,6,Pending,JDBC
+Bradley Smith,India,Bangalore,Big Data,NumPy,20/02/2023,3,Pending,Statistics
+Michele Thompson,Germany,Munich,Machine Learning,Prediction,25/09/2013,3,Completed,JDBC
+Brent Murphy,Germany,Berlin,AI,ETL,27/11/1989,6,Pending,Data Cleaning
+Mark Barnes,Germany,Berlin,Statistics,Aggregation,10/09/1992,4,Completed,Pandas
+Sean Hatfield,Germany,Hamburg,Cloud Computing,Functions,08/09/1973,8,Pending,Data Cleaning
+David Shields,UK,Liverpool,AI,Pandas,16/02/1996,5,Pending,Visualization
+Shawn Jensen,UK,Manchester,MongoDB,Data Cleaning,17/09/2000,6,Completed,Regression
+Yvonne Hammond,India,Bangalore,MongoDB,Pandas,21/01/2001,7,Completed,JDBC
+Christopher Vang,UK,Manchester,Big Data,Prediction,26/12/2023,5,Pending,Visualization
+Megan Rodriguez,UK,Liverpool,Data Science,OOP,28/03/2018,1,Completed,JDBC
+Robin Smith,Canada,Vancouver,Data Science,Prediction,20/05/1982,8,Pending,Pandas
+Richard Duncan,India,Pune,Tableau,Clustering,21/12/2025,2,Completed,Statistics
+Michael Carr,India,Bangalore,Big Data,Visualization,19/10/1971,7,Pending,Aggregation
+Jamie Simmons,India,Hyderabad,Tableau,ETL,16/10/1994,8,Completed,Regression
+James Garza,Germany,Berlin,MongoDB,Pandas,07/03/2018,8,Completed,Functions
+Jason Garcia,USA,Houston,Data Science,Clustering,19/08/1980,2,Pending,Data Cleaning
+Ryan Farmer,India,Hyderabad,Python,Prediction,28/08/2013,1,Completed,Pandas
+Austin Fernandez,Germany,Berlin,Python,Pandas,20/06/2000,8,Pending,OOP
+Daniel Haley,India,Mumbai,Python,NumPy,29/06/2016,8,Pending,Functions
+Angela Wright,Germany,Hamburg,Python,Functions,21/12/2011,8,Pending,Statistics
+Amanda Sharp,Germany,Hamburg,Python,Aggregation,11/02/1990,1,Pending,Prediction
+Kelly Valentine,UK,Manchester,Tableau,Aggregation,15/03/2023,3,Completed,Statistics
+Phillip Moreno,Germany,Hamburg,Big Data,Regression,16/11/2018,2,Completed,JDBC
+Carolyn Carter,USA,Houston,Cloud Computing,Aggregation,12/09/1997,1,Completed,Regression
+Nathan Evans,India,Hyderabad,Statistics,NumPy,25/11/1981,4,Completed,Regression
+Jeremy Roberts,Canada,Toronto,Data Science,Statistics,07/09/1994,7,Pending,Statistics
+Tommy Mcintosh,Canada,Vancouver,Big Data,Regression,15/08/2016,6,Pending,Pandas
+Jason Simon PhD,India,Pune,Statistics,OOP,14/04/2006,7,Completed,ETL
+Nancy Peterson,India,Delhi,Tableau,JDBC,30/07/2012,6,Completed,Data Cleaning
+Paul Willis,UK,London,MongoDB,Statistics,04/09/2018,5,Completed,Regression
+Kevin Sanchez,Canada,Vancouver,MongoDB,Prediction,15/03/2003,4,Completed,OOP
+Tara Schwartz,India,Delhi,Data Science,OOP,03/09/2022,8,Pending,Statistics
+Mr. Daniel Jacobs,USA,New York,Statistics,Clustering,24/08/1999,2,Pending,Prediction
+Courtney Harmon MD,Canada,Toronto,Tableau,Functions,02/07/1985,8,Completed,Clustering
+Susan Watts,USA,New York,Statistics,Aggregation,06/07/1982,1,Completed,JDBC
+Tina Ross MD,India,Delhi,Python,Regression,07/11/2000,3,Pending,Clustering
+Jason Garza,India,Mumbai,MongoDB,Prediction,25/04/1999,6,Pending,Regression
+Michael Lee,Germany,Berlin,Tableau,NumPy,13/06/1973,3,Pending,Pandas
+Terry Tyler,Germany,Munich,Data Science,Prediction,23/03/1991,2,Completed,Clustering
+Monica Watkins,Germany,Hamburg,Cloud Computing,OOP,17/08/1987,2,Completed,ETL
+Julie Hines,Germany,Munich,Java,Data Cleaning,20/01/1987,1,Pending,Functions
+Lori Rodriguez,Canada,Montreal,AI,Statistics,10/02/2018,1,Completed,JDBC
+Cynthia Robinson,India,Delhi,Python,Functions,28/11/1978,2,Pending,Prediction
+Autumn Rivera,USA,Los Angeles,Statistics,NumPy,27/10/1983,4,Pending,Clustering
+Adam Tran,Canada,Vancouver,Big Data,ETL,21/02/1979,1,Completed,Pandas
+Erica Mitchell,UK,Liverpool,Big Data,OOP,09/12/1992,7,Completed,NumPy
+Courtney Jones,USA,New York,Machine Learning,Aggregation,23/12/1982,6,Completed,Pandas
+Linda Smith,India,Bangalore,AI,Clustering,06/06/2008,3,Completed,Prediction
+David Cook,India,Mumbai,Statistics,Regression,04/03/1989,6,Pending,Statistics
+Karen Keith,Germany,Hamburg,MongoDB,NumPy,09/03/1991,6,Pending,Visualization
+Chelsea Conner,Germany,Berlin,AI,Pandas,02/04/1991,4,Completed,JDBC
+Shane Fuller,Germany,Munich,Data Science,OOP,03/07/1981,5,Pending,Aggregation
+Mary Turner,UK,London,Data Science,NumPy,21/03/1971,2,Completed,Regression
+Eric Haynes,UK,London,Big Data,JDBC,21/02/2024,4,Completed,Functions
+Jose Garcia,Canada,Montreal,Statistics,Pandas,02/10/2025,8,Pending,Statistics
+Christian Johnson,UK,Liverpool,Data Science,OOP,02/12/2023,5,Completed,Prediction
+Annette Barnes,India,Mumbai,Big Data,OOP,14/02/1979,5,Pending,Pandas
+Ashley Ramirez,Germany,Hamburg,Cloud Computing,OOP,19/05/2015,4,Pending,NumPy
+Nicole Allen,India,Hyderabad,MongoDB,Statistics,21/09/1994,4,Pending,Prediction
+Dana Daniels,Canada,Vancouver,Machine Learning,Data Cleaning,20/09/1980,7,Pending,Prediction
+Alan Brady,India,Delhi,Java,OOP,01/08/1972,5,Pending,Aggregation
+Gary Maynard,Canada,Toronto,Java,Functions,15/11/1998,2,Pending,Pandas
+Nicholas Anderson,USA,Los Angeles,Machine Learning,ETL,11/06/1974,5,Pending,NumPy
+Elizabeth Lara,UK,Liverpool,Machine Learning,ETL,01/02/2022,4,Pending,Clustering
+Lori Wilson,India,Mumbai,Statistics,Visualization,27/06/2012,6,Completed,NumPy
+Lori Myers,Germany,Hamburg,Python,Clustering,11/06/2003,5,Pending,Aggregation
+Michael Decker,Germany,Hamburg,Statistics,JDBC,26/08/2006,8,Completed,Statistics
+Tommy Evans,UK,London,Big Data,Data Cleaning,12/11/1989,8,Pending,ETL
+Sarah Stephens,UK,Liverpool,Cloud Computing,Prediction,28/08/2011,8,Completed,Statistics
+Kerry Patterson,Canada,Toronto,Python,NumPy,28/04/1997,3,Completed,OOP
+Michael Monroe,UK,London,Statistics,Visualization,25/05/1970,2,Pending,JDBC
+John Moody,UK,Liverpool,Tableau,Regression,15/11/1983,6,Completed,Pandas
+Jenna Campbell,USA,New York,Statistics,Aggregation,13/07/1980,2,Completed,OOP
+Ronald Duncan,Germany,Berlin,MongoDB,Clustering,23/01/1976,5,Pending,Statistics
+Joel Lucas,India,Mumbai,MongoDB,OOP,02/06/1973,7,Pending,OOP
+Jeffrey Barry,Germany,Berlin,Machine Learning,Clustering,11/08/1991,4,Pending,NumPy
+Grace Hamilton,Germany,Munich,Big Data,Statistics,19/06/2000,1,Completed,Functions
+Carolyn Contreras,Germany,Berlin,AI,ETL,25/12/2014,3,Completed,ETL
+Jenna Lawrence,Germany,Munich,Tableau,Prediction,02/04/1972,1,Completed,OOP
+Willie Choi,UK,Manchester,Java,Visualization,21/10/2019,4,Pending,Pandas
+James Black,USA,Los Angeles,Machine Learning,Clustering,07/05/1981,3,Completed,Regression
+Christopher Hill,USA,Chicago,Python,Statistics,02/08/1987,6,Completed,NumPy
+Anna Kim,Canada,Vancouver,Python,Visualization,12/09/1987,3,Pending,Aggregation
+Judith Juarez,Germany,Munich,AI,ETL,23/08/1971,6,Completed,NumPy
+Megan Hill,UK,Manchester,Cloud Computing,Pandas,03/10/1972,3,Completed,Regression
+Samuel Gibson,UK,London,Data Science,NumPy,12/04/2026,3,Completed,Regression
+Patricia Wagner,UK,Liverpool,Statistics,NumPy,19/11/1979,2,Pending,Prediction
+Christopher Hicks,UK,Manchester,Tableau,Functions,09/01/1988,6,Pending,Clustering
+George Martinez,Canada,Toronto,Tableau,Functions,03/07/2014,7,Pending,Regression
+Donald Logan,USA,New York,Machine Learning,ETL,08/03/1988,8,Completed,OOP
+Deborah Jackson,Canada,Vancouver,Machine Learning,NumPy,23/04/1984,3,Completed,Aggregation
+Shannon Wilson,Germany,Munich,Statistics,Visualization,19/09/1986,1,Completed,Visualization
+Kathleen Fernandez,USA,Los Angeles,Java,JDBC,04/12/1978,2,Completed,JDBC
+Michael Estes,India,Delhi,MongoDB,OOP,20/08/2022,6,Completed,ETL
+Jennifer Chen,India,Hyderabad,AI,Prediction,06/05/2019,6,Pending,Pandas
+Sherri Morrison,USA,Houston,Tableau,Visualization,13/01/2001,1,Pending,Prediction
+Teresa Stewart,USA,Houston,Big Data,Clustering,29/04/2002,7,Completed,Statistics
+Destiny Graham,India,Delhi,AI,Regression,25/10/2010,5,Completed,JDBC
+Christopher Barber,Canada,Toronto,Machine Learning,JDBC,27/10/2007,8,Pending,ETL
+Shannon French,Canada,Montreal,Tableau,ETL,10/09/1994,3,Pending,Data Cleaning
+Robert Wells,USA,Los Angeles,Cloud Computing,Data Cleaning,20/06/1976,8,Completed,JDBC
+Nicholas Ramsey,Germany,Munich,Data Science,Clustering,09/02/1989,5,Pending,Statistics
+David Duran,USA,Houston,Big Data,ETL,12/09/2024,1,Pending,Regression
+Mrs. Anna Bush MD,Canada,Vancouver,Data Science,Aggregation,23/06/1977,5,Completed,Regression
+Alexandra Potter,USA,Los Angeles,Cloud Computing,NumPy,25/07/2019,4,Pending,Visualization
+David Young,India,Bangalore,Statistics,NumPy,24/12/2004,3,Pending,JDBC
+Rebecca Dunn,Germany,Munich,AI,JDBC,14/03/1975,6,Pending,Functions
+Patrick Dickerson,UK,Liverpool,MongoDB,Statistics,02/09/1994,6,Completed,Visualization
+Amy Carter,USA,Houston,Tableau,Clustering,23/07/2004,3,Completed,Prediction
+Aaron Johnston,Canada,Toronto,Tableau,Data Cleaning,02/05/2001,7,Pending,Prediction
+Andrea Brown,Germany,Berlin,Big Data,Regression,21/08/1989,5,Pending,Clustering
+Tyler Hensley,USA,New York,Statistics,Statistics,23/02/1972,5,Pending,Prediction
+Vickie Hayden,Germany,Berlin,Statistics,OOP,14/08/2012,4,Completed,NumPy
+Tanya Wilkins,USA,Los Angeles,Tableau,Functions,03/07/1993,5,Completed,JDBC
+William Caldwell,UK,London,MongoDB,Prediction,27/01/1978,8,Pending,Aggregation
+William Edwards,India,Bangalore,AI,Statistics,08/07/1976,7,Pending,Prediction
+Dustin Martinez,USA,Chicago,Machine Learning,ETL,27/10/1980,7,Completed,NumPy
+Alexandra Walls,UK,London,Big Data,Functions,30/01/2019,6,Completed,Prediction
+Christopher Long,Canada,Toronto,Data Science,Prediction,14/08/2005,8,Pending,JDBC
+Angela Perez,India,Bangalore,MongoDB,JDBC,16/06/2023,5,Completed,JDBC
+Rachael Jones,USA,Chicago,Python,Regression,23/01/2016,4,Completed,Pandas
+Matthew Webster,USA,Los Angeles,MongoDB,Prediction,10/03/1979,5,Pending,Statistics
+Robert Allen,Germany,Berlin,AI,Data Cleaning,06/10/1984,2,Completed,Clustering
+Anthony Mccann,Germany,Berlin,Data Science,Functions,11/03/2025,3,Pending,NumPy
+Marcus Morales,India,Bangalore,Python,Visualization,18/10/1971,4,Completed,Aggregation
+Michael Chandler,UK,Manchester,Data Science,NumPy,02/08/1971,5,Completed,Statistics
+Amy Martinez,USA,New York,Python,OOP,13/06/1971,5,Pending,OOP
+Jordan Webb,India,Delhi,Machine Learning,Clustering,04/09/1980,7,Completed,OOP
+Jimmy Saunders,Germany,Hamburg,Python,Regression,30/11/2011,3,Completed,ETL
+Amber Lawson,Germany,Munich,Cloud Computing,NumPy,27/11/1980,7,Pending,Regression
+Ashley Chan,USA,New York,Java,Data Cleaning,12/03/1982,3,Completed,OOP
+Nancy Miller,India,Mumbai,AI,Data Cleaning,30/11/2003,2,Pending,NumPy
+Marilyn Roman,India,Mumbai,Big Data,Clustering,19/06/2003,6,Completed,Pandas
+Richard Reeves,USA,New York,Java,Statistics,07/06/1985,6,Completed,Prediction
+Vanessa Jones,Germany,Berlin,Statistics,Aggregation,16/04/2009,1,Pending,Clustering
+Ashley Henderson,Canada,Toronto,Statistics,Aggregation,11/02/1978,7,Pending,NumPy
+Kevin Jensen,UK,London,AI,Data Cleaning,04/07/2024,7,Completed,OOP
+James Garcia,UK,London,Machine Learning,Clustering,24/11/1982,3,Completed,Pandas
+Ariana Ponce,USA,Houston,Cloud Computing,Statistics,22/10/2020,4,Completed,Pandas
+Dr. Tina Matthews,USA,Houston,Tableau,JDBC,19/12/1973,5,Pending,Prediction
+Christopher Wright,UK,Manchester,Statistics,OOP,09/04/2000,8,Completed,Pandas
+Benjamin Ortega,USA,Houston,Tableau,OOP,31/07/1993,4,Pending,Pandas
+Timothy Johnson,India,Delhi,AI,OOP,13/11/2000,1,Completed,Clustering
+Jessica Martin,USA,New York,Machine Learning,Aggregation,12/05/1971,2,Pending,JDBC
+Barbara Lee,USA,Los Angeles,Big Data,Clustering,16/01/1987,1,Completed,ETL
+Ryan Lopez,USA,Chicago,AI,Pandas,13/10/1986,8,Completed,Regression
+Shannon Patterson,Canada,Montreal,Java,Pandas,14/02/2001,6,Pending,Aggregation
+Raymond Ashley,India,Pune,Big Data,NumPy,14/04/1979,1,Completed,Prediction
+Janet Castillo,Canada,Montreal,Python,OOP,08/02/1975,7,Completed,Prediction
+Kyle King,UK,Manchester,Cloud Computing,JDBC,02/02/2024,5,Completed,Data Cleaning
+Samantha Jackson,UK,Liverpool,Python,Aggregation,29/06/2010,7,Pending,NumPy
+Christina Lewis,India,Bangalore,Cloud Computing,Clustering,18/08/2017,2,Pending,Prediction
+Michael Clark DDS,India,Pune,Statistics,OOP,30/05/2013,7,Pending,Functions
+Maria Garcia,India,Delhi,Tableau,Pandas,05/09/1992,1,Completed,Data Cleaning
+Laura King,USA,Houston,AI,Visualization,07/08/2012,1,Pending,ETL
+Richard Rodriguez,Canada,Montreal,Python,Prediction,06/08/2024,3,Pending,Prediction
+James Andrews,UK,Liverpool,MongoDB,Data Cleaning,09/07/2017,8,Pending,Visualization
+Meghan Underwood,Germany,Berlin,Java,NumPy,05/09/2003,7,Pending,Pandas
+Ian Jackson,Germany,Munich,Python,Visualization,10/03/2025,7,Pending,NumPy
+Tami Miranda,Germany,Hamburg,AI,Data Cleaning,31/03/2006,4,Pending,Prediction
+Virginia Davis,India,Bangalore,Statistics,JDBC,12/01/1999,2,Pending,NumPy
+Angela Pittman,USA,Los Angeles,Python,Data Cleaning,25/06/2008,8,Pending,Aggregation
+Teresa Ho,Canada,Montreal,Machine Learning,Statistics,12/01/2013,7,Completed,Data Cleaning
+Sandra Bradley,Germany,Berlin,AI,NumPy,31/07/1995,4,Completed,JDBC
+Tony Smith,Canada,Montreal,Data Science,Pandas,22/09/2025,2,Pending,ETL
+Patricia Howard,Germany,Berlin,Python,Clustering,09/12/1989,6,Pending,ETL
+Anne Howard,Germany,Munich,Big Data,Aggregation,13/08/1994,2,Completed,Aggregation
+Dennis Le,Canada,Vancouver,Python,OOP,07/07/1990,4,Pending,Aggregation
+James Gay,Canada,Toronto,MongoDB,Visualization,01/11/2008,1,Completed,Prediction
+Eric Holden,Germany,Hamburg,Cloud Computing,NumPy,04/05/1984,1,Completed,Pandas
+Diane Murphy,Canada,Vancouver,Data Science,Visualization,14/04/1997,4,Pending,Data Cleaning
+Rachel Wong,India,Bangalore,Cloud Computing,Aggregation,29/06/2016,1,Completed,ETL
+Jasmine Tucker,India,Pune,Big Data,Regression,19/09/1983,7,Completed,Data Cleaning
+Alex Tanner,USA,Los Angeles,Cloud Computing,Prediction,22/04/1981,4,Pending,Data Cleaning
+Crystal Watts,UK,Liverpool,Statistics,Pandas,31/08/2010,6,Pending,Functions
+Kristin Martinez,Canada,Toronto,AI,Functions,20/11/2015,8,Pending,ETL
+Shawna Cox,USA,Houston,AI,Visualization,01/11/2019,2,Pending,Visualization
+Eddie Walker,Canada,Vancouver,Cloud Computing,Aggregation,11/06/2009,1,Pending,Clustering
+Christy Odonnell,UK,London,Cloud Computing,Aggregation,30/07/2003,4,Pending,JDBC
+Diane Cook,Canada,Vancouver,Java,Visualization,10/01/1974,2,Completed,Functions
+Nicholas Martin,India,Pune,Data Science,Regression,17/11/1970,3,Pending,Aggregation
+Emily Rodriguez,India,Bangalore,Data Science,Clustering,01/05/1981,1,Completed,Regression
+Adrienne Johnson,Germany,Hamburg,Tableau,Statistics,01/07/2021,4,Completed,OOP
+Nicholas Cook,UK,Manchester,MongoDB,OOP,13/12/2007,6,Pending,Pandas
+Joseph Davis,UK,Liverpool,Tableau,Clustering,04/10/2013,7,Pending,NumPy
+Amanda Stevens,Germany,Berlin,Big Data,Regression,14/03/1994,2,Pending,Pandas
+Pamela Jones,USA,Houston,MongoDB,Prediction,04/02/2014,8,Completed,Regression
+Mark Gay,Canada,Vancouver,MongoDB,NumPy,22/05/1977,2,Completed,OOP
+Ashley Weber,UK,Manchester,Java,Data Cleaning,12/08/2014,3,Pending,Pandas
+Peter Romero,India,Hyderabad,AI,OOP,29/05/2018,1,Completed,JDBC
+Ryan Rodriguez,USA,Houston,MongoDB,Aggregation,21/07/1974,7,Pending,Prediction
+Juan Le,Germany,Berlin,AI,JDBC,28/01/1979,2,Pending,Regression
+Jessica Terry,UK,Liverpool,Machine Learning,Functions,23/10/1992,2,Pending,Aggregation
+Melissa Davis,Canada,Montreal,Cloud Computing,Pandas,17/11/2023,3,Pending,Regression
+Jody Ford,Canada,Vancouver,AI,Aggregation,16/03/1996,4,Completed,Pandas
+Barbara Liu,Canada,Montreal,Java,OOP,11/02/2006,5,Pending,Prediction
+Jerry Wolf,USA,Houston,Big Data,Clustering,09/03/1973,6,Pending,Statistics
+Jason Barrett,Germany,Hamburg,Cloud Computing,Statistics,08/09/2024,6,Pending,NumPy
+Sarah Harper,Canada,Toronto,Big Data,Data Cleaning,03/12/2018,2,Completed,Aggregation
+Donna Brown,USA,New York,Big Data,ETL,09/03/2003,7,Pending,Statistics
+John Gonzalez,India,Delhi,Data Science,Clustering,07/03/2007,6,Pending,Prediction
+Erica Zavala,India,Hyderabad,Big Data,Pandas,29/05/2010,3,Completed,Functions
+Jessica Myers,India,Bangalore,Python,OOP,25/08/2005,2,Completed,Pandas
+Bradley Davis,India,Pune,Cloud Computing,Regression,05/09/1984,1,Completed,Functions
+Mitchell Mitchell,USA,Los Angeles,MongoDB,Statistics,13/03/2023,4,Completed,Pandas
+Gary Sweeney,USA,Houston,Java,Pandas,24/02/1983,5,Pending,JDBC
+Jessica Jones,USA,Chicago,Tableau,Regression,26/09/2020,1,Pending,Aggregation
+Lisa Ford,USA,Los Angeles,Data Science,Prediction,06/05/2012,1,Completed,Statistics
+Jon Martin,Canada,Montreal,Big Data,Functions,25/11/1970,2,Completed,Data Cleaning
+Virginia Potter,India,Hyderabad,Tableau,Statistics,01/07/1982,3,Completed,Visualization
+Lisa Hernandez,Germany,Berlin,Cloud Computing,Functions,22/01/2024,6,Completed,JDBC
+Jennifer Davis,India,Mumbai,Python,Statistics,12/11/1985,4,Pending,ETL
+Jennifer Arnold,India,Hyderabad,Python,Functions,17/03/2009,1,Pending,ETL
+Katherine Barnes,UK,Manchester,Java,OOP,01/10/2009,7,Pending,Data Cleaning
+Jennifer Williams,UK,London,AI,Functions,11/12/1978,3,Completed,JDBC
+Ronald Mendoza,USA,Houston,MongoDB,Prediction,04/04/2008,1,Pending,OOP
+Alyssa Webb,UK,Manchester,Big Data,Statistics,07/09/1994,7,Pending,Clustering
+Robert Weber,USA,Los Angeles,Python,Prediction,22/11/1996,2,Completed,Regression
+Lisa Hernandez,India,Pune,Java,Clustering,02/04/2004,6,Completed,Functions
+Kelly Zhang,India,Bangalore,Tableau,Clustering,01/10/2021,8,Completed,Pandas
+Eric Kemp,India,Mumbai,Python,Data Cleaning,05/03/1970,5,Completed,OOP
+Terri Colon,UK,London,Statistics,Clustering,26/04/2005,8,Completed,Visualization
+Cindy Lee,Germany,Hamburg,Cloud Computing,Functions,14/01/2004,6,Completed,Data Cleaning
+Jacqueline Wang,India,Delhi,Tableau,Prediction,22/12/1971,4,Pending,ETL
+Danielle Herrera,Germany,Munich,Statistics,Prediction,11/11/2019,7,Completed,Functions
+Gina Frey,India,Bangalore,MongoDB,Clustering,21/11/2022,3,Pending,Visualization
+Richard Moore,UK,Manchester,Python,NumPy,27/07/1976,8,Pending,JDBC
+Eric Garcia,UK,London,MongoDB,Statistics,14/11/2001,8,Completed,NumPy
+Christopher Santiago,India,Delhi,Java,Visualization,07/11/1988,1,Completed,Regression
+Joseph Wang,UK,Manchester,Statistics,Aggregation,28/05/2016,1,Completed,Regression
+Mark Cardenas,UK,Manchester,Java,ETL,08/12/1980,3,Completed,OOP
+Anthony Cruz,Germany,Hamburg,Big Data,Clustering,01/11/1978,2,Completed,Clustering
+Jonathan Oconnor,Canada,Montreal,Machine Learning,Prediction,18/09/2014,8,Completed,Functions
+Mary Evans,Germany,Hamburg,Java,Statistics,07/05/2024,7,Completed,Data Cleaning
+James Murray,Germany,Berlin,Statistics,OOP,05/04/1975,4,Completed,Statistics
+Lauren Rowe,USA,Los Angeles,Statistics,Pandas,01/10/1998,1,Pending,OOP
+Stephanie Long,Canada,Montreal,Data Science,JDBC,11/01/2005,3,Completed,Statistics
+Regina Robinson,India,Delhi,Java,Pandas,22/01/2008,2,Pending,OOP
+Sandra Mitchell,Canada,Vancouver,Python,ETL,18/01/2009,1,Completed,NumPy
+Michael Solis,India,Bangalore,Big Data,OOP,22/06/2020,1,Pending,NumPy
+Dana Klein,USA,Los Angeles,Tableau,Visualization,11/01/2013,8,Pending,Functions
+Kimberly Schwartz,USA,New York,Cloud Computing,Visualization,25/10/2011,5,Completed,JDBC
+Eric Collins,USA,Chicago,MongoDB,Pandas,29/03/2011,8,Pending,Statistics
+Jessica Vasquez,USA,New York,MongoDB,Pandas,07/06/2025,8,Completed,OOP
+Randall Best,USA,Chicago,Big Data,Visualization,28/01/1988,3,Completed,JDBC
+Mr. Jerome Young,India,Hyderabad,Machine Learning,Prediction,12/11/1984,1,Completed,Clustering
+Deborah Dougherty,Germany,Munich,AI,Prediction,07/10/1998,8,Pending,ETL
+Brooke Cruz,India,Hyderabad,Data Science,JDBC,18/03/1974,2,Completed,Aggregation
+Melissa Conley,USA,New York,Python,OOP,12/02/2014,7,Completed,Pandas
+Trevor Novak,UK,Liverpool,AI,Regression,29/03/2025,3,Completed,Pandas
+Julia Burns,Germany,Berlin,Python,Data Cleaning,25/08/1977,2,Completed,Aggregation
+Penny Atkinson,USA,New York,Data Science,Clustering,21/01/1992,5,Pending,Functions
+Joshua Ponce,USA,Los Angeles,AI,Data Cleaning,09/12/1999,2,Completed,Clustering
+James Meadows,UK,Liverpool,Tableau,ETL,16/07/1998,8,Completed,Aggregation
+Ashley Reed,India,Mumbai,Machine Learning,Prediction,22/04/2000,8,Pending,Pandas
+Lindsay Fisher,UK,Liverpool,Machine Learning,Clustering,22/05/1989,1,Pending,Data Cleaning
+Carrie Mendez,Germany,Hamburg,MongoDB,JDBC,03/07/1997,4,Completed,Clustering
+Jeremiah Mason,Germany,Hamburg,Machine Learning,ETL,10/02/2016,2,Completed,Data Cleaning
+Andrea Garcia,Canada,Montreal,Java,Pandas,24/07/1985,2,Pending,Aggregation
+James Hays,Germany,Munich,AI,JDBC,16/10/1984,8,Completed,Pandas
+James Gonzalez,UK,London,MongoDB,Prediction,18/12/1976,4,Pending,OOP
+Michael Smith,USA,New York,AI,Aggregation,09/04/2012,6,Completed,Statistics
+Anthony Cole,USA,Chicago,Data Science,Pandas,21/10/1984,3,Completed,Statistics
+Todd Thompson,Germany,Hamburg,MongoDB,OOP,04/10/1977,5,Pending,Statistics
+Aaron Gibson,USA,Chicago,Statistics,Regression,26/04/1971,1,Pending,NumPy
+Hunter Robinson,India,Pune,Statistics,Visualization,13/05/1987,7,Pending,Clustering
+Shannon Riley,UK,London,Data Science,Regression,14/06/2024,8,Pending,Prediction
+Courtney Colon,India,Delhi,Big Data,NumPy,07/06/2015,7,Pending,Statistics
+Patricia Valdez,Germany,Hamburg,Big Data,Visualization,24/08/1973,4,Pending,Visualization
+Heather Vasquez,Canada,Vancouver,Big Data,Statistics,14/08/1999,3,Pending,Data Cleaning
+John Thomas,UK,London,AI,JDBC,17/11/1997,1,Completed,Clustering
+Andrew Fowler,Canada,Vancouver,Python,Regression,31/08/1995,5,Pending,Visualization
+Jennifer Fowler,USA,Los Angeles,Big Data,Clustering,23/06/2008,5,Completed,Regression
+John Turner,Canada,Montreal,Cloud Computing,JDBC,02/10/1976,6,Pending,Clustering
+Diane Cline,UK,Manchester,Machine Learning,Regression,23/09/1992,1,Pending,Visualization
+Joshua Beltran,USA,Houston,Tableau,JDBC,15/11/1993,3,Completed,Regression
+Christine Contreras,USA,Los Angeles,Cloud Computing,Statistics,21/02/2013,4,Completed,Visualization
+Russell Simmons,Canada,Toronto,Tableau,Statistics,15/09/1998,8,Pending,Visualization
+Nina West,Canada,Toronto,Statistics,Regression,31/05/1991,1,Completed,Functions
+Cheryl Crane,Germany,Hamburg,Python,Clustering,30/05/2004,1,Completed,OOP
+Theresa Hood,Canada,Montreal,Java,Clustering,07/01/1995,6,Pending,Functions
+Robert Thomas,USA,Houston,AI,Prediction,07/01/2015,8,Completed,Regression
+Brittany Howard,Canada,Toronto,Machine Learning,Pandas,11/05/2016,6,Pending,ETL
+Crystal Lopez,USA,Chicago,Machine Learning,Visualization,06/09/2009,4,Completed,Aggregation
+Elizabeth Sutton,Germany,Hamburg,Cloud Computing,Statistics,23/05/1993,8,Completed,Visualization
+Chase Yates,Germany,Hamburg,AI,ETL,25/09/1975,5,Completed,OOP
+Mario Miller,Canada,Montreal,MongoDB,NumPy,28/07/2014,2,Completed,Clustering
+Stephanie Vance,India,Bangalore,AI,Aggregation,12/08/1972,6,Pending,Regression
+Jeffrey Russell,India,Hyderabad,Data Science,ETL,04/07/1982,6,Pending,Clustering
+Brian Cunningham,USA,Houston,Machine Learning,OOP,08/05/2024,3,Pending,Regression
+Benjamin Malone,UK,London,Tableau,Clustering,30/07/2006,1,Pending,NumPy
+Mr. Michael Frazier,Canada,Toronto,Data Science,Statistics,11/05/1983,7,Pending,ETL
+Keith Brady,Canada,Toronto,Machine Learning,Clustering,29/02/1992,5,Completed,OOP
+Jason Mckee,USA,New York,Big Data,Functions,16/04/1993,8,Pending,JDBC
+Susan Payne,India,Mumbai,Python,Visualization,07/05/2024,3,Completed,OOP
+John Marsh,Canada,Montreal,Data Science,ETL,07/05/1976,4,Completed,JDBC
+Christina Ford,USA,Los Angeles,Machine Learning,OOP,03/07/2022,1,Pending,Visualization
+Breanna Clark,Germany,Berlin,Tableau,Clustering,28/10/1991,7,Pending,Visualization
+Nathaniel Sanders,Germany,Hamburg,Big Data,Regression,20/01/2012,2,Pending,Pandas
+Andrew Marsh,Germany,Berlin,Tableau,Visualization,28/04/1982,2,Completed,Statistics
+Shannon Taylor,UK,Manchester,AI,NumPy,25/03/2021,6,Pending,OOP
+Robert Miller,Canada,Toronto,MongoDB,OOP,24/03/1970,1,Pending,Aggregation
+Jessica Combs,Canada,Montreal,AI,NumPy,30/10/2000,3,Pending,Regression
+Traci Anderson,UK,Manchester,Tableau,Data Cleaning,25/02/2007,1,Pending,Statistics
+Heather Hall,Germany,Munich,Data Science,Regression,23/04/2013,3,Completed,Statistics
+Mrs. Stacey Bradley,Germany,Berlin,Cloud Computing,Aggregation,07/09/1998,4,Completed,Clustering
+Joshua Morton,India,Pune,Python,Prediction,06/08/2023,2,Pending,Pandas
+Joshua Thompson,Germany,Hamburg,Cloud Computing,Prediction,05/05/1977,3,Pending,Clustering
+David Ellis,USA,Houston,Machine Learning,Statistics,18/06/1972,6,Pending,JDBC
+Heather Baker,India,Bangalore,MongoDB,Prediction,19/09/2024,7,Pending,OOP
+Sandra Williamson,UK,Manchester,MongoDB,Functions,01/04/2024,8,Completed,Data Cleaning
+Amy Carr,Canada,Vancouver,Big Data,Aggregation,11/10/1976,8,Pending,Aggregation
+Gabrielle Hutchinson,Germany,Munich,AI,Functions,12/05/1998,2,Completed,Aggregation
+Matthew Watts,Canada,Vancouver,Cloud Computing,Prediction,27/02/1991,7,Completed,JDBC
+William Goodwin,UK,Liverpool,Cloud Computing,ETL,16/10/1983,5,Completed,Regression
+Roger Lopez,India,Bangalore,Java,Visualization,29/05/2014,6,Completed,ETL
+Donna Parrish,India,Hyderabad,Tableau,NumPy,24/01/1977,2,Completed,Statistics
+Donald Garcia,Canada,Vancouver,Machine Learning,Aggregation,31/10/2021,8,Pending,Functions
+Catherine Mills,USA,New York,MongoDB,Functions,05/05/2024,3,Pending,Visualization
+William Wagner,Germany,Munich,Big Data,JDBC,17/09/2012,6,Completed,Statistics
+Scott Peterson,Canada,Montreal,Python,NumPy,24/07/1972,6,Pending,OOP
+Doris Palmer,Canada,Toronto,MongoDB,JDBC,07/08/2004,7,Completed,ETL
+Jessica Williams,USA,Houston,Java,Prediction,08/03/2023,5,Pending,ETL
+David Jones,UK,London,MongoDB,OOP,05/12/1977,2,Pending,Visualization
+Erica Henson,UK,London,Java,Functions,01/07/2001,6,Pending,NumPy
+Natasha Fox,Germany,Berlin,AI,Regression,15/08/2015,8,Pending,OOP
+Curtis Smith,Canada,Montreal,Machine Learning,OOP,27/04/1975,8,Pending,ETL
+Jonathan Lawson,Germany,Berlin,Big Data,Prediction,15/01/2016,4,Pending,OOP
+Raymond Chavez,India,Bangalore,Tableau,NumPy,01/11/2022,4,Pending,Clustering
+Julie Spencer,Germany,Munich,Cloud Computing,Aggregation,08/05/2008,8,Pending,NumPy
+Tiffany Gonzales,India,Hyderabad,Python,Functions,07/10/1975,1,Completed,ETL
+Nicole Butler,UK,Manchester,Machine Learning,Clustering,03/12/2017,3,Completed,Visualization
+Cynthia Lopez,UK,London,Data Science,ETL,12/12/2014,1,Completed,Prediction
+Lori Holland,India,Pune,Data Science,Prediction,04/02/1987,7,Pending,Statistics
+Connor Esparza,USA,Los Angeles,MongoDB,Data Cleaning,06/12/2017,1,Completed,JDBC
+Daniel Fuentes,Germany,Hamburg,Python,JDBC,26/04/1976,5,Completed,JDBC
+Derrick Johnson,USA,Los Angeles,MongoDB,ETL,25/06/1975,6,Pending,OOP
+Caleb Anderson,USA,Los Angeles,Big Data,Prediction,03/06/2022,5,Pending,Visualization
+Nicholas Cole,USA,New York,MongoDB,OOP,16/02/1991,5,Completed,Aggregation
+Jared Thompson,India,Bangalore,Big Data,Data Cleaning,25/11/2003,4,Pending,Functions
+Anthony Mann,Canada,Toronto,Python,Functions,16/10/1991,1,Pending,Statistics
+Victoria Mcclain,USA,Houston,Big Data,Aggregation,13/12/2016,3,Completed,ETL
+Heidi Potter,Canada,Vancouver,AI,Prediction,09/11/1992,8,Completed,Visualization
+Devin Palmer,USA,Los Angeles,AI,Aggregation,30/09/2019,2,Completed,ETL
+Robert Jones,India,Delhi,MongoDB,Clustering,26/02/2019,3,Pending,Aggregation
+Carla Moody,UK,London,MongoDB,NumPy,03/03/1983,8,Completed,Statistics
+Jeffrey Smith,Germany,Munich,AI,Pandas,07/01/1970,4,Completed,Statistics
+Stephanie Kane,Germany,Berlin,Tableau,JDBC,14/11/1989,7,Pending,Prediction
+Roy Patel,India,Mumbai,Python,Clustering,20/06/2014,4,Completed,ETL
+Jeffery Castillo,UK,Liverpool,Java,Regression,03/04/1993,2,Completed,Clustering
+Karen Marshall,USA,Los Angeles,Tableau,Pandas,01/05/1990,8,Pending,Clustering
+Jordan Gonzalez,UK,London,Python,Statistics,28/11/2019,1,Pending,JDBC
+Steven Bishop,UK,Liverpool,AI,Clustering,29/08/1974,8,Completed,Clustering
+Andrew Fox,Germany,Hamburg,MongoDB,Visualization,14/07/1975,6,Pending,Functions
+Sarah Bautista,UK,Manchester,Python,Aggregation,10/06/2005,5,Pending,Visualization
+Jesse Lee,UK,Liverpool,Data Science,Clustering,10/09/2016,1,Pending,Prediction
+Holly Gomez,USA,Houston,Machine Learning,Pandas,24/03/2015,2,Pending,Prediction
+Sandra Russo,Germany,Berlin,Machine Learning,Aggregation,02/09/1970,4,Pending,NumPy
+Joanna Cook,India,Bangalore,Data Science,Statistics,18/10/1979,7,Pending,Aggregation
+Steven Taylor,USA,Chicago,Java,NumPy,12/03/1970,7,Pending,ETL
+Linda Jennings,USA,New York,Python,Statistics,02/05/1982,2,Completed,ETL
+Bridget Thompson,Germany,Hamburg,Statistics,Aggregation,13/07/1972,2,Pending,Functions
+Rachael Murray,India,Delhi,Statistics,Pandas,15/06/1982,7,Completed,Pandas
+Michelle Garrett,Canada,Montreal,MongoDB,Functions,27/03/2001,4,Pending,Clustering
+Mr. Robert Jackson,UK,Manchester,Data Science,Functions,10/05/1983,5,Pending,JDBC
+Dalton Sexton,Canada,Vancouver,MongoDB,OOP,27/06/1973,6,Pending,ETL
+Samantha Nichols,Canada,Montreal,Statistics,Visualization,11/10/1981,4,Pending,ETL
+Angela Dickerson,Germany,Hamburg,Tableau,Regression,14/02/1976,4,Pending,JDBC
+Alexandra Stafford,India,Pune,Data Science,Aggregation,28/07/2011,7,Completed,Aggregation
+Andrea Bryan,USA,New York,Tableau,Pandas,23/09/1971,8,Pending,Regression
+Deborah Martin,Germany,Munich,Python,OOP,03/12/1984,7,Pending,Aggregation
+Mallory Smith,USA,New York,Tableau,NumPy,26/09/2021,8,Pending,Functions
+James Ward,UK,Manchester,Data Science,Clustering,29/01/2016,1,Pending,Functions
+Brian Ray,Canada,Vancouver,Java,Prediction,26/02/1992,8,Completed,Clustering
+Wendy Dean,India,Delhi,Statistics,Statistics,13/07/1986,1,Completed,JDBC
+Megan Sutton,Germany,Hamburg,Machine Learning,Aggregation,16/10/2023,6,Pending,Clustering
+Jacob Avila,Canada,Montreal,Data Science,JDBC,24/04/1988,4,Completed,Data Cleaning
+Debra Kim,UK,Manchester,MongoDB,Statistics,02/03/1994,3,Pending,ETL
+Austin Campbell,Canada,Montreal,Big Data,JDBC,08/12/2023,3,Pending,ETL
+William Mckenzie,Canada,Toronto,Data Science,ETL,13/10/1997,5,Completed,JDBC
+Dawn Garrett,Canada,Vancouver,Cloud Computing,Prediction,01/10/1974,2,Pending,JDBC
+Bridget Wang,USA,New York,AI,Statistics,17/11/1978,1,Pending,Regression
+Michaela Baker,USA,New York,Tableau,JDBC,30/10/2000,4,Pending,Prediction
+Stephanie Stanley,Canada,Montreal,Statistics,Aggregation,13/03/2000,1,Completed,Clustering
+Eric Bennett,UK,London,Tableau,Aggregation,12/12/2008,1,Pending,JDBC
+Gregory Cruz,Canada,Vancouver,MongoDB,Regression,04/08/1984,2,Completed,Visualization
+James Vance,Canada,Toronto,Java,Aggregation,27/10/1981,2,Completed,Visualization
+Shannon Wilson,UK,Liverpool,Python,JDBC,14/01/2025,7,Completed,OOP
+Jonathan Jones,India,Hyderabad,Python,Pandas,10/01/1989,7,Pending,Aggregation
+Justin Guerra,USA,New York,AI,Aggregation,12/09/2009,4,Pending,OOP
+Andrew Henderson,Canada,Toronto,Java,JDBC,27/12/2013,5,Pending,JDBC
+Michelle Jones,Germany,Hamburg,Machine Learning,ETL,17/04/2002,2,Pending,Functions
+Todd Howard,UK,London,Statistics,Regression,05/04/2023,8,Completed,Regression
+Daniel George,India,Mumbai,Big Data,ETL,27/10/1986,2,Completed,Pandas
+Veronica Haynes,Canada,Toronto,AI,Aggregation,10/11/2018,3,Pending,Visualization
+Nicole Beck,UK,Liverpool,Java,Regression,09/05/2025,3,Completed,Clustering
+Jessica Clark,USA,New York,Machine Learning,Clustering,30/04/2016,5,Pending,Clustering
+Rita Rodriguez,Germany,Berlin,Tableau,OOP,07/01/1996,5,Completed,Prediction
+Justin Russell,India,Hyderabad,Statistics,Statistics,31/05/2007,7,Pending,Prediction
+Joseph Oliver,Germany,Hamburg,Tableau,ETL,25/04/1975,2,Completed,NumPy
+Michelle Navarro,USA,New York,Machine Learning,Pandas,13/09/1985,7,Pending,Pandas
+Bryan Cordova,UK,London,Java,Clustering,21/12/2002,8,Completed,ETL
+Juan Watts,Germany,Munich,Python,Prediction,04/12/1972,3,Completed,Clustering
+Jeffrey Fox,Germany,Munich,Big Data,ETL,02/10/2003,4,Pending,Data Cleaning
+Zachary Johnson,USA,New York,Java,Prediction,19/05/1978,7,Completed,OOP
+Richard Nixon,India,Mumbai,Big Data,Prediction,11/09/1993,4,Completed,Prediction
+Mark Hernandez,USA,Los Angeles,Machine Learning,Data Cleaning,16/12/1998,7,Pending,Functions
+Jesse Ramos,India,Mumbai,MongoDB,NumPy,07/07/1992,1,Completed,Regression
+Mr. Logan Fowler,India,Hyderabad,Cloud Computing,Visualization,08/12/2000,8,Pending,Regression
+Charles Chaney,Canada,Vancouver,AI,Data Cleaning,10/06/1976,2,Completed,Pandas
+Norma Aguilar,UK,Manchester,AI,Clustering,02/01/2004,6,Completed,Clustering
+Reginald Fernandez,USA,Chicago,Tableau,Clustering,14/08/2020,7,Completed,OOP
+Stacey Anthony,Canada,Vancouver,Data Science,Regression,12/04/2007,1,Completed,Aggregation
+Thomas Zamora,Canada,Vancouver,Python,Clustering,22/12/2009,7,Completed,Functions
+Brian Hernandez,Germany,Berlin,Python,Pandas,24/10/1975,5,Completed,Functions
+Ricky Myers,Canada,Montreal,Machine Learning,Functions,17/09/1998,8,Completed,Clustering
+David Miller,India,Bangalore,AI,Pandas,26/06/1998,6,Completed,Aggregation
+Kimberly Rollins,Canada,Montreal,MongoDB,Visualization,22/05/1994,6,Completed,NumPy
+Travis Flores,India,Pune,MongoDB,Pandas,15/11/1988,1,Completed,NumPy
+Wayne Rowe,USA,Los Angeles,Machine Learning,Prediction,27/07/2001,5,Completed,Pandas
+Daniel Glenn,USA,New York,AI,Pandas,21/06/2024,4,Pending,Prediction
+Michele Adams,UK,Liverpool,Big Data,Functions,26/11/1997,1,Pending,JDBC
+Renee Parker,India,Hyderabad,Data Science,JDBC,24/06/1973,6,Completed,NumPy
+Jennifer Green,Germany,Munich,Tableau,Data Cleaning,18/09/2019,8,Pending,Regression
+Mark Scott,UK,Manchester,Statistics,Prediction,24/10/1979,6,Completed,ETL
+Michelle Williams,UK,Liverpool,MongoDB,Pandas,15/10/1988,2,Pending,Pandas
+Christina Clark,Canada,Toronto,AI,Regression,20/06/2025,4,Completed,Regression
+Gina Roberts,Canada,Toronto,Python,Visualization,12/11/1995,8,Pending,Aggregation
+Ashley Mcdonald,USA,Chicago,Python,Functions,03/04/1974,7,Pending,Regression
+Zachary Bishop,USA,Chicago,Big Data,Aggregation,24/02/1991,2,Completed,Visualization
+Megan Donaldson,India,Pune,Tableau,Visualization,22/01/1983,8,Pending,Functions
+Derek Pittman,India,Pune,Big Data,OOP,20/08/2024,2,Pending,Statistics
+Jennifer Baker,India,Delhi,MongoDB,JDBC,17/07/2019,6,Completed,Pandas
+Jeremy Stephens,Canada,Toronto,Cloud Computing,JDBC,17/01/2009,6,Pending,Functions
+Francisco Smith,India,Hyderabad,Tableau,NumPy,03/12/2012,5,Completed,OOP
+George Lopez,Germany,Munich,Data Science,Data Cleaning,14/10/2008,2,Completed,Visualization
+Christina Dyer,Germany,Berlin,AI,Data Cleaning,03/12/2018,8,Completed,ETL
+William Foster,Germany,Hamburg,AI,NumPy,27/01/2019,8,Pending,Statistics
+Nicholas White,USA,Los Angeles,Python,Pandas,04/02/1990,5,Completed,Pandas
+Caitlin Johnson,Canada,Toronto,Machine Learning,Statistics,19/06/1993,8,Pending,OOP
+Bonnie Chavez,Germany,Berlin,Cloud Computing,Regression,07/10/1974,7,Pending,Clustering
+Kimberly Roberts,India,Hyderabad,Data Science,Regression,21/09/1994,7,Completed,ETL
+Russell Long,India,Bangalore,Machine Learning,Statistics,16/06/1983,1,Completed,Data Cleaning
+Alexis Hogan,USA,New York,Machine Learning,Pandas,20/04/2009,1,Pending,NumPy
+Ian Hogan,Germany,Munich,Cloud Computing,JDBC,31/07/1996,6,Pending,OOP
+Nancy Ortega,Canada,Vancouver,AI,Data Cleaning,04/05/2015,4,Pending,ETL
+Jacob Martinez,USA,Chicago,Big Data,NumPy,16/12/1982,1,Completed,Functions
+Sarah Miller,Germany,Hamburg,Machine Learning,Functions,28/03/1994,2,Completed,OOP
+Kimberly Lucero,India,Pune,Python,Functions,17/08/1972,7,Completed,ETL
+Margaret Miller,Germany,Munich,Statistics,Data Cleaning,06/06/1985,6,Pending,Functions
+Gordon Stein,USA,Los Angeles,MongoDB,JDBC,02/05/1973,3,Pending,Clustering
+Justin Edwards,Canada,Montreal,Big Data,Visualization,27/02/2025,1,Pending,NumPy
+Anthony Leach,Canada,Toronto,Java,Data Cleaning,24/09/1978,7,Completed,Data Cleaning
+Timothy Roth,Germany,Munich,MongoDB,Pandas,02/10/2004,2,Completed,OOP
+Michael Cruz,Germany,Berlin,Tableau,Regression,25/02/1972,3,Pending,Regression
+Krystal Peters,USA,Los Angeles,Java,OOP,18/10/2023,4,Pending,NumPy
+James Brewer,USA,Los Angeles,Tableau,Aggregation,08/05/1977,5,Completed,Data Cleaning
+Beth Miller,USA,Chicago,Tableau,Prediction,12/06/2009,3,Pending,Aggregation
+Paula Strong,Canada,Vancouver,Tableau,Statistics,17/12/2009,2,Completed,Prediction
+Henry Smith,UK,Manchester,Cloud Computing,Data Cleaning,21/02/2012,1,Completed,Regression
+Samantha Perez,Canada,Vancouver,AI,Statistics,01/03/2004,1,Completed,JDBC
+Lauren Brown,Canada,Toronto,Tableau,OOP,15/11/1993,7,Completed,NumPy
+Kimberly Wood,Germany,Hamburg,Big Data,NumPy,17/03/1988,7,Pending,NumPy
+Courtney Rogers,Canada,Montreal,MongoDB,Aggregation,28/09/1993,5,Pending,Regression
+Emily Grimes,Canada,Montreal,Tableau,Functions,22/04/1988,2,Completed,Pandas
+Joy Cunningham,UK,London,MongoDB,Regression,10/02/2012,5,Pending,JDBC
+Brian Moore,USA,New York,Python,Pandas,06/06/2002,3,Completed,Functions
+Robert Bush,Germany,Berlin,Big Data,OOP,22/04/1978,1,Pending,ETL
+William Richardson,India,Delhi,Tableau,Aggregation,27/04/1996,6,Pending,Statistics
+James Cook,UK,Manchester,Big Data,NumPy,12/09/2000,2,Completed,Visualization
+Emily Anthony,USA,Chicago,Statistics,Visualization,06/07/1985,1,Completed,Aggregation
+Tiffany Norman,UK,Liverpool,Statistics,NumPy,07/02/2007,6,Pending,Prediction
+Steven Willis,Germany,Munich,Java,Aggregation,24/01/1976,8,Completed,Visualization
+Brittany Nichols,Germany,Berlin,Machine Learning,Regression,23/08/1983,1,Pending,Statistics
+Tracy Lopez,UK,London,Tableau,Visualization,13/06/2018,7,Pending,OOP
+Timothy Clark,Germany,Berlin,Python,OOP,28/08/1988,4,Completed,Aggregation
+Patricia Lawrence,India,Delhi,MongoDB,OOP,15/08/1980,7,Completed,OOP
+Kyle Munoz,USA,Houston,Data Science,Pandas,23/05/1970,2,Pending,Functions
+Dr. Ryan Caldwell,Canada,Montreal,Data Science,NumPy,19/04/1992,2,Completed,Pandas
+Joshua Padilla,Germany,Berlin,MongoDB,Prediction,12/01/2010,8,Pending,Data Cleaning
+Austin Sparks,Canada,Montreal,Statistics,Visualization,23/02/2012,3,Pending,JDBC
+Ricky Kane,Canada,Montreal,AI,Pandas,11/03/2021,2,Completed,OOP
+Courtney Moran,USA,Houston,Statistics,Aggregation,13/02/2022,7,Pending,Prediction
+Carolyn Soto,USA,New York,AI,Data Cleaning,13/12/1988,8,Completed,Visualization
+Kim King,Germany,Hamburg,Cloud Computing,OOP,05/01/2026,6,Completed,Functions
+Katherine Williams,India,Delhi,Tableau,OOP,29/07/1972,2,Pending,Data Cleaning
+David White,USA,New York,MongoDB,OOP,14/12/1982,2,Completed,Prediction
+David Johnson,UK,Liverpool,Statistics,Aggregation,10/03/2016,3,Pending,Clustering
+Terri Carter,Canada,Montreal,AI,Statistics,05/05/1992,1,Pending,ETL
+Amy Mack,UK,Manchester,AI,Data Cleaning,14/11/1983,1,Completed,Regression
+Sarah King,Germany,Munich,Java,Functions,03/07/1998,4,Pending,ETL
+Todd Lewis,USA,Chicago,Java,ETL,24/09/1984,5,Completed,Aggregation
+Tamara Curry,India,Bangalore,Python,OOP,10/05/1978,4,Completed,Clustering
+Austin Cabrera,Germany,Munich,Python,OOP,19/01/1994,7,Pending,Prediction
+John Medina,Canada,Montreal,Cloud Computing,Regression,17/12/1971,1,Completed,Clustering
+Ryan Gray,Germany,Hamburg,Big Data,JDBC,30/12/1976,5,Pending,NumPy
+Theodore Young,USA,Chicago,Cloud Computing,JDBC,07/02/2018,3,Completed,JDBC
+Brenda Johnson,Germany,Hamburg,Cloud Computing,ETL,05/07/2002,2,Completed,Clustering
+John Thompson,Canada,Montreal,AI,ETL,06/06/2020,7,Completed,Prediction
+Erin Jenkins,India,Delhi,MongoDB,JDBC,21/12/1987,4,Pending,OOP
+Courtney Mcgee,USA,New York,MongoDB,Aggregation,20/05/1979,1,Completed,Aggregation
+Chase Cortez,India,Bangalore,Java,Functions,25/04/1980,2,Completed,ETL
+Paul Malone,UK,Manchester,Data Science,Clustering,22/09/1973,4,Pending,Functions
+Victor Michael,USA,New York,Statistics,JDBC,03/12/1974,2,Completed,Data Cleaning
+Rachael Young,Germany,Hamburg,Big Data,Statistics,02/05/2019,7,Pending,Statistics
+Kevin Brooks,UK,London,Cloud Computing,Aggregation,30/05/2018,2,Completed,ETL
+George Smith,Germany,Hamburg,Cloud Computing,Prediction,08/07/1990,6,Pending,Data Cleaning
+Sheri Clayton,Canada,Vancouver,Statistics,Regression,22/07/1988,6,Completed,Aggregation
+Tara Rodriguez,USA,Los Angeles,Tableau,NumPy,11/12/2007,6,Pending,Data Cleaning
+Melanie Pittman,India,Delhi,Java,Pandas,01/07/2008,8,Completed,Prediction
+Eric Hartman,USA,Los Angeles,Data Science,Visualization,28/03/2023,3,Pending,ETL
+Justin Wright,USA,New York,Machine Learning,Data Cleaning,30/04/1998,8,Completed,JDBC
+Colleen Leon,USA,New York,AI,Clustering,28/10/1980,6,Completed,Visualization
+Jessica Howe,Germany,Berlin,Statistics,Prediction,29/03/1994,1,Pending,Visualization
+Willie Williams,Canada,Vancouver,Machine Learning,Aggregation,30/11/2000,7,Completed,Pandas
+David Henderson,UK,London,Python,Pandas,19/12/1996,5,Pending,Pandas
+Michael Nelson,Germany,Berlin,Big Data,Prediction,04/02/1990,3,Pending,OOP
+Erik Kelly,India,Hyderabad,Tableau,Aggregation,01/10/2002,8,Completed,ETL
+Joseph Jimenez,UK,Liverpool,Java,JDBC,19/08/1976,6,Completed,Statistics
+David Vasquez,Canada,Montreal,AI,ETL,01/12/2025,1,Pending,JDBC
+Kayla Lane,Canada,Montreal,Tableau,NumPy,10/01/2021,7,Completed,Aggregation
+Rachel Curry,Canada,Toronto,Python,Clustering,08/02/1978,8,Completed,Statistics
+Katherine Cabrera,USA,Los Angeles,Tableau,OOP,11/12/1982,6,Completed,OOP
+Jeffery Baxter,USA,Los Angeles,Data Science,Prediction,18/08/1997,4,Pending,Pandas
+Nicholas Gibbs,USA,Houston,Big Data,Statistics,03/02/2022,7,Pending,OOP
+Michelle Perkins,Canada,Vancouver,Cloud Computing,Aggregation,23/12/2000,6,Completed,Functions
+Christine Johnson,USA,New York,Cloud Computing,Prediction,24/04/2016,4,Completed,Pandas
+John Mack,Germany,Berlin,MongoDB,Prediction,15/11/1985,3,Completed,Clustering
+Zachary Wise,USA,Los Angeles,Cloud Computing,Aggregation,25/06/2017,3,Completed,Data Cleaning
+Michael Porter,USA,New York,Java,Statistics,18/05/2016,5,Completed,Clustering
+Michael Woods,UK,Liverpool,Statistics,Aggregation,05/02/1981,4,Pending,OOP
+Joanna Smith,India,Hyderabad,Tableau,JDBC,27/09/2004,4,Completed,Regression
+Shawna Goodman,Germany,Hamburg,Data Science,Data Cleaning,06/02/1997,4,Completed,ETL
+Randall Mckay,UK,Liverpool,Statistics,ETL,28/04/2005,5,Pending,ETL
+Kendra Cooper,UK,London,Cloud Computing,Visualization,06/05/1982,5,Completed,Clustering
+Evan Shields,Germany,Berlin,Big Data,OOP,04/04/2021,1,Pending,Prediction
+Mary Gonzalez,Germany,Munich,Data Science,ETL,17/01/2023,7,Pending,Regression
+Jessica Dillon,Canada,Vancouver,Java,Clustering,05/06/2006,3,Completed,Pandas
+Stephanie Garrison MD,India,Mumbai,Python,Pandas,23/08/1970,5,Pending,Data Cleaning
+Tracy Johnson DVM,UK,Manchester,Java,Pandas,19/04/2019,8,Completed,JDBC
+Mindy Castillo,UK,London,Java,OOP,15/09/1974,7,Pending,NumPy
+Scott Wiggins,Germany,Munich,Data Science,JDBC,06/05/2016,4,Completed,JDBC
+Charles Smith,India,Hyderabad,Big Data,Statistics,07/03/1973,6,Pending,Clustering
+Christina Haynes,Canada,Vancouver,Java,Functions,13/01/1983,5,Pending,Clustering
+Jennifer Davis,Canada,Montreal,Statistics,Prediction,19/09/2009,1,Pending,Functions
+Michael Simpson,Germany,Munich,Python,Statistics,18/08/1989,5,Pending,NumPy
+Marie Hughes,UK,London,Data Science,NumPy,19/12/1990,4,Pending,Prediction
+Julie Turner,India,Hyderabad,Java,Data Cleaning,22/09/2025,6,Completed,Pandas
+Patricia Turner,Canada,Vancouver,AI,JDBC,31/03/2026,7,Pending,Statistics
+Dr. Kevin Fischer,UK,Manchester,Data Science,Clustering,24/04/1978,6,Completed,Functions
+Teresa Gray,Canada,Montreal,Big Data,Visualization,16/07/1979,4,Completed,NumPy
+Jose Johnson,USA,New York,Tableau,NumPy,01/04/1995,2,Pending,ETL
+Diana Adkins,India,Mumbai,AI,Data Cleaning,12/06/2015,1,Completed,Data Cleaning
+Chad Cook,Canada,Vancouver,Python,NumPy,01/11/2017,4,Pending,ETL
+Brandy Obrien,India,Delhi,Statistics,JDBC,03/06/1970,8,Completed,Functions
+Debra Robinson,Germany,Munich,Tableau,NumPy,25/08/2011,3,Pending,Visualization
+Zachary Parsons,India,Bangalore,Big Data,ETL,14/10/1971,2,Pending,JDBC
+Jessica Carpenter,Canada,Vancouver,Python,Regression,13/04/2002,2,Pending,NumPy
+Megan Kerr,USA,Los Angeles,Tableau,Statistics,03/02/2001,4,Completed,Pandas
+Renee Jones,Germany,Hamburg,Data Science,JDBC,09/12/1979,1,Pending,Visualization
+Brandon Perry,Canada,Montreal,MongoDB,Prediction,18/06/1980,4,Pending,Regression
+Bryce Oconnor,India,Mumbai,AI,Data Cleaning,17/06/1992,5,Pending,Pandas
+Sylvia Miller,UK,London,MongoDB,Data Cleaning,04/01/2013,1,Completed,ETL
+Ms. Audrey Avila DVM,Canada,Montreal,Python,Clustering,08/09/1989,8,Completed,Data Cleaning
+Maria Warren,UK,London,Data Science,Data Cleaning,08/02/2003,7,Pending,Clustering
+Justin Anderson,UK,Manchester,Big Data,Statistics,15/12/1994,4,Completed,Clustering
+Donald Lucas,UK,London,Cloud Computing,Visualization,12/06/1985,5,Completed,NumPy
+Zachary Larson,India,Delhi,Java,Visualization,28/01/2002,7,Completed,NumPy
+Matthew Marshall,Germany,Berlin,Tableau,Visualization,20/04/2026,4,Completed,Statistics
+Brian Tanner,Canada,Montreal,Data Science,Prediction,24/11/2021,2,Pending,Functions
+Justin Leach,UK,Liverpool,Python,OOP,11/02/2006,5,Completed,Pandas
+Scott Haynes,UK,Manchester,AI,Prediction,03/05/1989,5,Completed,ETL
+Jeffery Anderson,India,Delhi,Machine Learning,Visualization,08/12/1994,1,Pending,Data Cleaning
+Stacey Frost,USA,Houston,Big Data,Prediction,21/08/1987,8,Pending,OOP
+Candice Hunter,USA,Chicago,Machine Learning,Prediction,04/11/1980,3,Pending,NumPy
+Lori Kirk,Germany,Berlin,MongoDB,Prediction,19/01/2025,4,Pending,Clustering
+Amy Smith,USA,Chicago,MongoDB,ETL,24/02/1997,4,Completed,Visualization
+Jonathan Rodriguez,USA,Chicago,Statistics,NumPy,18/02/1981,4,Pending,Statistics
+Jo Perkins,Canada,Montreal,Statistics,Pandas,18/05/1995,3,Pending,NumPy
+Joshua Kim,UK,Manchester,Tableau,Prediction,20/04/2006,4,Completed,NumPy
+Amber Sparks,Germany,Hamburg,AI,ETL,18/10/1973,8,Pending,Statistics
+Amy Simpson,India,Bangalore,Machine Learning,JDBC,07/11/1987,2,Pending,Clustering
+Jennifer Garcia,Canada,Montreal,MongoDB,Pandas,07/06/1993,2,Pending,Functions
+Jason Melendez,USA,Houston,MongoDB,Pandas,14/10/2014,2,Completed,Prediction
+Richard Greene,Germany,Munich,Tableau,Pandas,27/09/2003,2,Completed,Prediction
+Donald Johnson,UK,Manchester,Tableau,Prediction,10/11/2008,1,Completed,Visualization
+Brittany Carter,India,Pune,Data Science,JDBC,10/06/1974,3,Pending,Pandas
+Ellen Archer,USA,New York,Data Science,Aggregation,15/03/2013,4,Completed,OOP
+David Tucker,UK,London,Tableau,Visualization,04/12/2006,8,Completed,Statistics
+Charles Holt,Canada,Montreal,Statistics,JDBC,19/05/2022,4,Completed,JDBC
+Jose Anderson,India,Delhi,Data Science,Statistics,31/12/2006,2,Pending,Clustering
+Danielle Medina,USA,Houston,Data Science,Aggregation,31/01/1999,5,Pending,ETL
+Richard Wallace,India,Mumbai,Statistics,Visualization,16/06/2002,8,Pending,Regression
+Nancy Maynard,Germany,Berlin,Data Science,Regression,07/08/2014,2,Pending,Visualization
+Nicole Greene,Germany,Munich,Python,Pandas,26/07/1989,4,Completed,OOP
+Victoria Benson,India,Pune,Java,Clustering,18/09/1993,5,Completed,Functions
+Jamie Mitchell,India,Mumbai,Cloud Computing,Prediction,02/01/2016,1,Completed,Statistics
+Diamond Barnett,UK,Liverpool,Data Science,ETL,29/06/2020,3,Pending,JDBC
+Brittany Smith,UK,London,Statistics,Statistics,25/09/2018,4,Pending,OOP
+Blake White,India,Pune,Python,JDBC,18/10/1999,2,Pending,ETL
+Renee Perez,UK,London,AI,Data Cleaning,06/10/1986,1,Completed,Regression
+Tamara Jones,USA,Los Angeles,Cloud Computing,ETL,29/10/1999,5,Completed,Functions
+Christopher Ewing,Canada,Montreal,Statistics,Statistics,30/10/1997,7,Completed,JDBC
+John Ramirez,India,Hyderabad,AI,ETL,01/01/2005,7,Completed,Functions
+Robert Fisher,UK,Manchester,MongoDB,Aggregation,04/02/2026,7,Pending,JDBC
+Emma Luna,UK,Liverpool,Data Science,Data Cleaning,24/02/1989,2,Pending,JDBC
+Christian Potts,UK,Manchester,Statistics,Pandas,23/04/2013,6,Pending,Visualization
+Julie Dorsey,Germany,Munich,Cloud Computing,JDBC,09/04/1992,8,Completed,Aggregation
+William Garcia,India,Mumbai,AI,Visualization,24/04/1996,7,Pending,ETL
+Donald Fleming,UK,Manchester,Statistics,Visualization,08/06/1978,5,Completed,Pandas
+Jennifer Reeves,UK,Manchester,Python,JDBC,03/12/1984,6,Pending,Pandas
+Emily Whitehead,Canada,Vancouver,MongoDB,Functions,03/02/1983,2,Completed,Visualization
+Jordan Miller,UK,Liverpool,Java,Clustering,26/01/1998,4,Pending,Statistics
+Jenna Garrett,Germany,Hamburg,AI,Prediction,03/06/2006,5,Completed,Functions
+Dana Lewis,USA,Chicago,Machine Learning,Functions,19/04/2024,3,Completed,Regression
+Kyle Mitchell,India,Mumbai,Data Science,Prediction,27/05/1996,5,Pending,ETL
+Travis Fletcher,Canada,Montreal,Machine Learning,Regression,08/11/1983,4,Pending,ETL
+Ashley Maxwell,USA,Los Angeles,AI,NumPy,29/07/2018,7,Completed,NumPy
+Lindsey Pope,USA,Chicago,Cloud Computing,Prediction,24/10/2013,7,Pending,NumPy
+Michael Turner,India,Bangalore,Python,Regression,09/09/1975,5,Completed,Statistics
+Eric Holloway,Canada,Vancouver,Machine Learning,Functions,12/12/2005,2,Pending,Visualization
+Carolyn Bradshaw,Canada,Vancouver,Cloud Computing,Data Cleaning,10/09/1970,8,Completed,ETL
+Tony Berg,Canada,Toronto,Statistics,JDBC,30/03/2005,7,Completed,ETL
+Jeremiah Davis,Canada,Vancouver,Tableau,Data Cleaning,31/12/2009,8,Pending,Pandas
+Miranda Young,USA,Houston,Big Data,Clustering,21/02/2000,8,Pending,Clustering
+Norman Kemp,Germany,Hamburg,Tableau,Statistics,31/12/1995,5,Completed,Data Cleaning
+James Trevino,Canada,Montreal,Statistics,Regression,25/08/2022,5,Pending,Clustering
+Ashley Clark,UK,Liverpool,Cloud Computing,Prediction,15/11/1980,3,Pending,Statistics
+Courtney Hale,Germany,Munich,Tableau,Statistics,02/01/2018,2,Completed,Prediction
+Tonya Clark,Germany,Hamburg,Tableau,Statistics,03/04/1979,2,Completed,Statistics
+Melissa Reed,Canada,Toronto,Cloud Computing,ETL,12/07/1998,3,Pending,Statistics
+Lisa Rivera,Canada,Montreal,AI,OOP,13/05/2009,4,Completed,OOP
+Diamond Cardenas,India,Delhi,Machine Learning,Functions,19/10/2019,3,Completed,Regression
+Joshua Garcia,Canada,Vancouver,AI,JDBC,14/10/2018,6,Completed,Statistics
+Allison Fischer,UK,Manchester,MongoDB,JDBC,11/07/1980,7,Completed,Pandas
+Cameron Mitchell,India,Delhi,Big Data,Clustering,17/08/2001,1,Pending,JDBC
+Gregory Coleman,Canada,Vancouver,Java,OOP,08/02/1970,1,Pending,Regression
+Matthew Hodge,USA,New York,Big Data,Data Cleaning,29/11/1980,1,Pending,Regression
+Randy Wade,UK,London,Cloud Computing,Aggregation,17/07/1984,7,Completed,JDBC
+Eduardo Reyes,USA,Chicago,Big Data,Statistics,23/01/1990,4,Pending,Statistics
+Brian Green,India,Delhi,Big Data,Aggregation,16/09/1989,8,Pending,ETL
+Melinda Mooney,Canada,Toronto,Big Data,JDBC,14/08/2018,2,Completed,OOP
+John Brown,USA,Chicago,Machine Learning,Prediction,26/11/2019,2,Completed,Prediction
+Charles Turner,Canada,Toronto,Python,Functions,03/01/2020,5,Completed,Functions
+Bradley Crosby,Canada,Montreal,Big Data,NumPy,22/04/1996,6,Pending,Data Cleaning
+Kenneth Mckinney,India,Delhi,Cloud Computing,ETL,28/05/2017,6,Pending,Data Cleaning
+Steven Johnson,Canada,Toronto,MongoDB,Prediction,20/05/1996,1,Pending,NumPy
+Katherine Huffman,Canada,Toronto,MongoDB,ETL,05/09/1994,8,Completed,Data Cleaning
+Frederick Steele,India,Delhi,MongoDB,ETL,17/08/1970,6,Completed,ETL
+Linda Daniel,India,Bangalore,Cloud Computing,Data Cleaning,09/06/1977,1,Pending,Clustering
+Jessica Le DDS,Germany,Munich,Tableau,ETL,13/09/2006,5,Completed,ETL
+Brianna Morse,USA,Los Angeles,Machine Learning,JDBC,19/08/1989,5,Pending,ETL
+Belinda Kaiser,USA,Los Angeles,Big Data,Data Cleaning,07/08/1972,3,Pending,ETL
+Rachel Stevens,UK,Liverpool,Python,Functions,20/08/2019,3,Completed,OOP
+Natasha Rodriguez,Canada,Vancouver,Java,Data Cleaning,01/12/2023,7,Pending,OOP
+Luke Francis,Canada,Vancouver,Data Science,ETL,02/01/1995,5,Completed,Prediction
+Jared Ramos,USA,New York,AI,Data Cleaning,29/07/2017,1,Completed,Functions
+Cody Hunt,India,Delhi,Java,ETL,24/02/1990,6,Completed,Prediction
+Adrian Clark,Canada,Montreal,Java,Clustering,05/09/1982,1,Completed,Functions
+Deborah Johnson,India,Mumbai,Tableau,Aggregation,19/06/2014,3,Pending,Data Cleaning
+Mary Hutchinson,Germany,Hamburg,Data Science,JDBC,21/12/2001,7,Completed,Clustering
+Frank Fuentes,UK,London,Python,ETL,27/07/2011,7,Completed,NumPy
+Rachel Reed,UK,Manchester,Cloud Computing,Statistics,24/06/1984,6,Completed,NumPy
+Brent Jackson,USA,New York,Java,Regression,15/06/1997,7,Completed,Pandas
+Juan Molina,USA,Houston,Big Data,Regression,28/03/2011,3,Pending,JDBC
+Joe Trujillo,Germany,Hamburg,Machine Learning,ETL,24/12/1992,7,Completed,Statistics
+James Hernandez,UK,Manchester,Statistics,JDBC,21/05/1983,8,Completed,Prediction
+Alexander Lutz,Germany,Hamburg,Python,Visualization,13/03/1992,8,Pending,JDBC
+Alexander Lynn,Germany,Berlin,Tableau,Prediction,21/04/2007,7,Pending,Aggregation
+Keith Butler,Canada,Montreal,MongoDB,Clustering,07/01/2022,5,Pending,JDBC
+Erin Mathews,UK,Manchester,MongoDB,Aggregation,09/06/2019,7,Completed,Statistics
+Brittany Nelson,Germany,Munich,AI,Aggregation,30/03/1981,1,Pending,Visualization
+Jennifer Johnson,Canada,Vancouver,Statistics,ETL,27/12/2024,8,Pending,Pandas
+Jessica Wade,Canada,Montreal,Big Data,ETL,18/10/2011,3,Pending,ETL
+Holly Norman,UK,Manchester,Python,Aggregation,13/07/1973,5,Pending,Statistics
+Crystal Young,Germany,Hamburg,MongoDB,ETL,10/09/2009,7,Pending,NumPy
+Douglas Miller,India,Hyderabad,Machine Learning,NumPy,07/03/1993,8,Completed,Prediction
+David Bird,USA,Houston,Machine Learning,OOP,18/05/2001,3,Pending,Prediction
+Lindsey Wallace,UK,Manchester,Cloud Computing,Pandas,25/03/1978,5,Completed,NumPy
+George Johnson DDS,Canada,Vancouver,AI,ETL,02/12/2021,2,Completed,Prediction
+Jason Lambert,USA,New York,Statistics,Pandas,23/11/1997,2,Completed,ETL
+Brian Hunter,India,Delhi,Python,Statistics,18/02/1977,6,Completed,Prediction
+Michael Jones,India,Delhi,Statistics,Regression,15/12/1974,8,Pending,JDBC
+Andrea Peterson DDS,UK,London,Statistics,Functions,12/10/1977,1,Completed,Regression
+Karen Nguyen,Germany,Berlin,Java,Functions,16/07/1979,6,Pending,Pandas
+Mark Hess,Canada,Vancouver,Cloud Computing,Statistics,24/06/2017,3,Completed,Functions
+Renee Hill,USA,Houston,Big Data,Functions,01/11/1988,6,Pending,JDBC
+Aaron Smith,UK,Liverpool,Cloud Computing,Prediction,21/03/1990,4,Pending,OOP
+Sarah Davis,Canada,Vancouver,Big Data,Aggregation,01/04/2023,6,Pending,Clustering
+Allen Bartlett,India,Pune,Cloud Computing,NumPy,15/08/2013,6,Completed,Data Cleaning
+Daniel Garza,Canada,Montreal,Statistics,JDBC,26/10/1981,7,Completed,Data Cleaning
+Kelly Carlson,India,Hyderabad,AI,Functions,11/12/1983,7,Completed,OOP
+Michael Webb,Germany,Hamburg,Python,Visualization,01/12/1991,5,Pending,Statistics
+Brian Cline,USA,Los Angeles,Java,Functions,28/08/1986,7,Completed,OOP
+Dylan Jones,Canada,Vancouver,Statistics,Data Cleaning,29/10/2020,1,Completed,Aggregation
+Thomas Erickson,UK,London,Java,Statistics,12/11/2025,3,Completed,Regression
+Jessica Poole,India,Pune,AI,Statistics,17/05/1991,5,Completed,Prediction
+David Pierce,USA,New York,Python,Prediction,15/02/2017,5,Completed,Pandas
+Shelly West,India,Delhi,Python,Clustering,24/11/2004,6,Completed,Visualization
+Hunter Brady,Canada,Toronto,Machine Learning,OOP,08/02/1978,7,Completed,Regression
+Allen Baker,India,Hyderabad,Tableau,OOP,13/07/1993,3,Completed,ETL
+Tamara Garcia,UK,Manchester,Java,Clustering,08/03/1975,8,Completed,ETL
+Jill Johnson,USA,Los Angeles,Tableau,OOP,18/04/1983,6,Pending,Clustering
+Julie Wheeler,UK,London,Big Data,Pandas,17/03/1998,2,Completed,Data Cleaning
+Mark Martinez,UK,London,Tableau,Aggregation,11/06/1979,1,Completed,Aggregation
+Dustin Young DVM,UK,London,AI,ETL,30/10/2020,5,Pending,Data Cleaning
+Lisa Sharp,Germany,Munich,Cloud Computing,Prediction,05/02/2012,8,Pending,Prediction
+Allen Harris,India,Mumbai,AI,ETL,25/11/1984,5,Completed,Prediction
+Theodore Barnes,UK,Liverpool,Cloud Computing,ETL,15/09/2009,3,Completed,ETL
+Kenneth Jacobs,India,Hyderabad,Python,OOP,30/09/2001,2,Completed,NumPy
+Tara Davis,USA,Houston,Java,Aggregation,17/06/2013,2,Completed,NumPy
+Traci Braun,Canada,Vancouver,Python,NumPy,05/09/1992,2,Completed,Functions
+Elizabeth Wagner,UK,Liverpool,Cloud Computing,Prediction,28/08/2004,4,Completed,Prediction
+Peter Hill,Canada,Toronto,Python,Clustering,25/04/2023,1,Pending,NumPy
+Jessica Bass,Canada,Vancouver,Tableau,Pandas,25/12/1974,8,Pending,Pandas
+Jeffrey Ramirez,Canada,Montreal,AI,NumPy,08/01/2015,7,Pending,Data Cleaning
+Rebecca Mccall,Canada,Vancouver,Machine Learning,Aggregation,21/01/1970,7,Completed,Pandas
