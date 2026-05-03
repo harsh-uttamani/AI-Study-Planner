@@ -49,7 +49,7 @@ An AI-powered study planner that helps students create personalized schedules, t
 ![Login](screenshots/Login.png)
 
 ### 📝 Signup Page
-![Signup](screenshots/Sigin Up.png)
+![Signup](screenshots/siginup.png)
 
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
