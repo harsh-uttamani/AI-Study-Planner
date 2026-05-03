@@ -41,9 +41,6 @@ An AI-powered study planner that helps students create personalized schedules, t
 1. Start MongoDB
 2. Run:  python app/auth_gui.py
 
-# 🔥 Why this is better
-
-- `auth_gui.py` = proper entry point (login system)
 ---
 
 ## 📸 Screenshots
