@@ -45,7 +45,20 @@ An AI-powered study planner that helps students create personalized schedules, t
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+### 🔐 Login Page
+![Login](screenshots/Login.png)
+
+### 📝 Signup Page
+![Signup](screenshots/Sigin Up.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📈 Analytics Report 1
+![Analytics1](screenshots/Analytics.png)
+
+### 📈 Analytics Report 2
+![Analytics2](screenshots/Analytics2.png)
 
 ---
 
